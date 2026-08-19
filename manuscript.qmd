@@ -363,7 +363,9 @@ When a researcher states "*correlated*" - "*related*" and "*associated*" were al
 ```
 If these researchers forced themselves to state their formal hypothesis, the use of symbols (\<, \>, ≤, ≥, etc.) would help clarify the direction they expect and therefore the direction they don't expect. It would also provide further details regarding their estimand; when researchers specify a direction (or not), they rarely say what it is relative to. Take our above example, are the increases relative to baseline, pre-to-post within a session? Or across weeks? Further, while it can be inferred from the aims, what are the bumper plates being compared to (the comparator). If we formalized our hypotheses in combination with clearly defining our constructs, their operationalisations and their summary measures, it would greatly improve the testability and clarity of our hypotheses.
 
-# The Claims we make
+# The Claims we make[^6]
+
+[^6]: See <https://github.com/barrytgorman/hypothesis_descriptive/blob/main/supplemental_material.pdf> for specific detail as to how claims are phrased in the literature. 
 
 The claims we make in sport and exercise science are inherently flawed given we firstly don't state H~0~. This is the underling logic of NHST, if we wish to make a claim regarding *H*, then we must first make a claim that the evidence is inconsistent with H~0~. This may explain why less than 40% of sport and exercise science studies arrive at a conclusion as to whether their hypothesis was supported or not supported; it may be difficult to do without a formal model. When researchers find support or do not find support for their hypothesis, one must typically infer from inspection of the methods, results and discussion sections how the researchers arrived at their conclusion; a process made difficult by the vague hypothesis and multiplicity of dependent variables and statistical tests, as we have already mentioned. Thus, when we do test *H* we must be specific as to what constitutes our observed statistical results being consistent or inconsistent with data, or what constitutes it being inconclusive [@neyman_problem_1933]. In our field we typically fail to do this, researchers often infer that any p-value ≤ 0.05 implies our substantive hypothesis is supported, otherwise our substantive hypothesis is not supported, or no statement regarding the hypothesis is made. To avoid this and make our reporting more consistent, if we have a significant (p \< $\alpha$) p-value (or group of p-values, depending on your hypothesis) from a Neyman-Pearson perspective (and as @lakens_improving_2022 [p.25] stated) we could state that: "*We can* \[tentatively\] *act as if the null hypothesis is false* \[, because the testing procedure controls the long-run type I error rate at $\alpha$, assuming the null hypothesis is true\]". When we do not find a significant p-value (or group of p-values, depending on your hypothesis) we can simply state: "*The data do not allow us to reject the null hypothesis of ...*", with each outcome including a re-iteration of the formal statistical hypothesis for absolute clarity.
 
@@ -381,7 +383,7 @@ Gorman, B.T. (Writing -- original draft, Writing -- review & editing, Project ad
 
 # Data and Supplementary Material Accessibility
 
-The data related to this study is publicly available on the OSF (\<\>). The analysis code related to this study is publicly available on GitHub (\<\>).
+The data related to this study is publicly available on the OSF (<https://osf.io/mz5w3/overview>). The data, analysis code, and this manuscript as a.qmd file are publicly available on GitHub (<https://github.com/barrytgorman/hypothesis_descriptive.git>).
 
 # Competing interests
 

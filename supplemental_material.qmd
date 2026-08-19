@@ -2,6 +2,7 @@
 title: "Supplemental Material"
 editor: visual
 ---
+
 ```{r include=FALSE}
 # packages
 library(flextable)
@@ -9,7 +10,7 @@ library(dplyr)
 library(stringr)
 ```
 
-**Table 1.** *Claims phrases of the original authors in their discussion where their hypothesis was supported*.
+**Table 1.** *Claim phrases of the original authors in their discussion, where their hypothesis was supported*.
 
 ```{r include=FALSE}
 # descriptives of supporting claims
@@ -42,8 +43,7 @@ names(split_support_claim_freq) <- c("Term ", "Frequency ", "Term", "Frequency")
 
 `r flextable(split_support_claim_freq) %>% fontsize(size = 6, part = "all") %>% padding(padding = 2, part = "all") %>% autofit()`
 
-
-**Table 2.** *Claims phrases of the original authors in their discussion where their hypothesis was not supported*.
+**Table 2.** *Claim phrases of the original authors in their discussion, where their hypothesis was not supported*.
 
 ```{r include = FALSE}
 # descriptives of none supporting claims
@@ -74,10 +74,9 @@ names(split_no_support_claim_freq) <- c("Term ", "Frequency ", "Term", "Frequenc
 
 ```
 
-
 `r flextable(split_no_support_claim_freq) %>% fontsize(size = 6, part = "all") %>% padding(padding = 2, part = "all") %>% autofit()`
 
-**Table 3.** *Claim phrases of the original authors in their discussion where their support for their hypothesis was "mixed"*.
+**Table 3.** *Claim phrases of the original authors in their discussion, where support for their hypothesis was "mixed"*.
 
 ```{r include = FALSE}
 # descriptives of mixed claims
