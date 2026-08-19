@@ -1,0 +1,970 @@
+Files\\Studies\\Study001 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+It was hypothesised
+Files\\Studies\\Study002 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+the study hypothesis
+Files\\Studies\\Study003 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+It was hypothesized
+Files\\Studies\\Study004 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study005 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+It is hypothesised
+Files\\Studies\\Study006 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+We hypothesized
+Files\\Studies\\Study007 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+The hypothesis of the study was
+Files\\Studies\\Study008 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study010 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+The hypotheses were
+Files\\Studies\\Study011 - § 2 references coded [ 0.03% Coverage]
+Reference 1 - 0.01% Coverage
+we hypothesized
+Reference 2 - 0.02% Coverage
+To test this hypothesis
+Files\\Studies\\Study012 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study013 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study014 - § 2 references coded [ 0.03% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Reference 2 - 0.02% Coverage
+it was hypothesized
+Files\\Studies\\Study015 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+it is hypothesized
+Files\\Studies\\Study016 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study017 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+we hypothesized
+Files\\Studies\\Study018 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+It was hypothesized
+Files\\Studies\\Study019 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+we expected
+Files\\Studies\\Study020 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+It was hypothesized
+Files\\Studies\\Study021 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study022 - § 2 references coded [ 0.03% Coverage]
+Reference 1 - 0.01% Coverage
+We hypothesized
+Reference 2 - 0.01% Coverage
+It was expected
+Files\\Studies\\Study023 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study024 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study025 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+We hypothesized
+Files\\Studies\\Study026 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+we hypothesized
+Files\\Studies\\Study027 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+We hypothesized
+Files\\Studies\\Study028 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study029 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+We hypothesised
+Files\\Studies\\Study030 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+It was hypothesised
+Files\\Studies\\Study031 - § 2 references coded [ 0.03% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Reference 2 - 0.02% Coverage
+we hypothesized
+Files\\Studies\\Study032 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study033 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+The specific hypotheses of this study were 
+Files\\Studies\\Study034 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study035 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+The present study had 3 initial hypotheses
+Files\\Studies\\Study036 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+It was hypothesized
+Files\\Studies\\Study037 - § 2 references coded [ 0.03% Coverage]
+Reference 1 - 0.02% Coverage
+We first hypothesised
+Reference 2 - 0.01% Coverage
+we hypothesised
+Files\\Studies\\Study038 - § 2 references coded [ 0.05% Coverage]
+Reference 1 - 0.02% Coverage
+it was hypothesized
+Reference 2 - 0.02% Coverage
+it was hypothesized
+Files\\Studies\\Study039 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+It was hypothesised
+Files\\Studies\\Study040 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+We hypothesized
+Files\\Studies\\Study041 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+It was hypothesized
+Files\\Studies\\Study042 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+It was hypothesized
+Files\\Studies\\Study043 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+We hypothesized
+Files\\Studies\\Study044 - § 2 references coded [ 0.06% Coverage]
+Reference 1 - 0.03% Coverage
+we hypothesized
+Reference 2 - 0.03% Coverage
+We also hypothesized
+Files\\Studies\\Study045 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+It was hypothesised
+Files\\Studies\\Study046 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+We expected
+Files\\Studies\\Study047 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+We hypothesize
+Files\\Studies\\Study048 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+It was hypothesized
+Files\\Studies\\Study049 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+We hypothesized
+Files\\Studies\\Study050 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+It was hypothesised
+Files\\Studies\\Study051 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+The hypotheses were 
+Files\\Studies\\Study052 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+we hypothesized
+Files\\Studies\\Study053 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study054 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+we tested the following hypotheses:
+Files\\Studies\\Study055 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Reference 2 - 0.02% Coverage
+we hypothesized
+Files\\Studies\\Study056 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study057 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study058 - § 2 references coded [ 0.02% Coverage]
+Reference 1 - 0.01% Coverage
+It was hypothesized
+Reference 2 - 0.01% Coverage
+we hypothesized
+Files\\Studies\\Study059 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+this study hypothesized that
+Files\\Studies\\Study060 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+We hypothesized
+Files\\Studies\\Study061 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study062 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study063 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+it is hypothesized
+Files\\Studies\\Study064 - § 4 references coded [ 0.06% Coverage]
+Reference 1 - 0.01% Coverage
+We hypothesized
+Reference 2 - 0.01% Coverage
+we hypothesized
+Reference 3 - 0.01% Coverage
+we hypothesized
+Reference 4 - 0.01% Coverage
+we hypothesized
+Files\\Studies\\Study065 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+we hypothesized
+Files\\Studies\\Study066 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+It was hypothesised
+Files\\Studies\\Study067 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+we hypothesized
+Files\\Studies\\Study068 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.02% Coverage
+we hypothesized
+Reference 2 - 0.02% Coverage
+we also hypothesized
+Files\\Studies\\Study069 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+we hypothesized
+Files\\Studies\\Study070 - § 2 references coded [ 0.07% Coverage]
+Reference 1 - 0.04% Coverage
+It was hypothesized
+Reference 2 - 0.03% Coverage
+were hypothesized
+Files\\Studies\\Study071 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study072 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesised
+Files\\Studies\\Study073 - § 2 references coded [ 0.02% Coverage]
+Reference 1 - 0.01% Coverage
+was expected
+Reference 2 - 0.01% Coverage
+was expected
+Files\\Studies\\Study074 - § 2 references coded [ 0.06% Coverage]
+Reference 1 - 0.02% Coverage
+it was hypothesized
+Reference 2 - 0.03% Coverage
+It was further hypothesized
+Files\\Studies\\Study075 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesised
+Files\\Studies\\Study076 - § 2 references coded [ 0.06% Coverage]
+Reference 1 - 0.03% Coverage
+It was firstly hypothesised
+Reference 2 - 0.03% Coverage
+it was also hypothesised
+Files\\Studies\\Study077 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+it was expected
+Files\\Studies\\Study078 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study079 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+we hypothesized
+Files\\Studies\\Study080 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+it was hypothesized
+Files\\Studies\\Study081 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.02% Coverage
+it is expected
+Reference 2 - 0.02% Coverage
+It is also expected
+Files\\Studies\\Study082 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study083 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesise
+Files\\Studies\\Study084 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+We hypothesized
+Files\\Studies\\Study085 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.02% Coverage
+it was hypothesized
+Reference 2 - 0.02% Coverage
+we hypothesized
+Files\\Studies\\Study086 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study087 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+We expected
+Files\\Studies\\Study088 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+We hypothesized
+Files\\Studies\\Study089 - § 2 references coded [ 0.06% Coverage]
+Reference 1 - 0.03% Coverage
+Our primary hypothesis was
+Reference 2 - 0.03% Coverage
+Our secondary hypothesis was
+Files\\Studies\\Study090 - § 1 reference coded [ 0.05% Coverage]
+Reference 1 - 0.05% Coverage
+The hypothesis of this study is that
+Files\\Studies\\Study091 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Reference 2 - 0.02% Coverage
+we hypothesized
+Files\\Studies\\Study092 - § 2 references coded [ 0.03% Coverage]
+Reference 1 - 0.01% Coverage
+it was hypothesized
+Reference 2 - 0.02% Coverage
+It was also hypothesized
+Files\\Studies\\Study093 - § 1 reference coded [ 0.05% Coverage]
+Reference 1 - 0.05% Coverage
+The speciﬁc hypotheses include that
+Files\\Studies\\Study094 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study095 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study096 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+It was hypothesised
+Files\\Studies\\Study097 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study098 - § 2 references coded [ 0.03% Coverage]
+Reference 1 - 0.02% Coverage
+It is hypothesized
+Reference 2 - 0.02% Coverage
+It is postulated
+Files\\Studies\\Study099 - § 3 references coded [ 0.07% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Reference 2 - 0.02% Coverage
+We expected
+Reference 3 - 0.02% Coverage
+we hypothesized
+Files\\Studies\\Study100 - § 3 references coded [ 0.15% Coverage]
+Reference 1 - 0.05% Coverage
+it was hypothesized
+Reference 2 - 0.05% Coverage
+it was hypothesized
+Reference 3 - 0.05% Coverage
+it was hypothesized
+Files\\Studies\\Study101 - § 3 references coded [ 0.06% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Reference 2 - 0.02% Coverage
+we hypothesized
+Reference 3 - 0.02% Coverage
+we hypothesized
+Files\\Studies\\Study102 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Reference 2 - 0.02% Coverage
+we also expected
+Files\\Studies\\Study103 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study104 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+it is hypothesized
+Files\\Studies\\Study105 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+We hypothesized
+Files\\Studies\\Study106 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Reference 2 - 0.02% Coverage
+we expected
+Files\\Studies\\Study107 - § 2 references coded [ 0.03% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesize
+Reference 2 - 0.02% Coverage
+we hypothesize
+Files\\Studies\\Study108 - § 6 references coded [ 0.07% Coverage]
+Reference 1 - 0.01% Coverage
+we expect
+Reference 2 - 0.01% Coverage
+we expect
+Reference 3 - 0.02% Coverage
+we hypothesize
+Reference 4 - 0.01% Coverage
+we expect
+Reference 5 - 0.01% Coverage
+we expect
+Reference 6 - 0.02% Coverage
+we hypothesize
+Files\\Studies\\Study109 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study110 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study111 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study112 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study113 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+it was hypothesized
+Files\\Studies\\Study114 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+It was hypothesised
+Files\\Studies\\Study115 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+we hypothesize
+Files\\Studies\\Study116 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.02% Coverage
+it was hypothesized
+Reference 2 - 0.02% Coverage
+it was also hypothesized
+Files\\Studies\\Study117 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesize
+Files\\Studies\\Study118 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+It was hypothesized
+Files\\Studies\\Study119 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study120 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+We hypothesized
+Files\\Studies\\Study121 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+It was hypothesised
+Files\\Studies\\Study122 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study123 - § 3 references coded [ 0.05% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Reference 2 - 0.01% Coverage
+We predicted
+Reference 3 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study124 - § 2 references coded [ 0.05% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Reference 2 - 0.03% Coverage
+We also hypothesized
+Files\\Studies\\Study125 - § 2 references coded [ 0.05% Coverage]
+Reference 1 - 0.03% Coverage
+It was hypothesized
+Reference 2 - 0.03% Coverage
+it was postulated
+Files\\Studies\\Study126 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+It was hypothesized
+Files\\Studies\\Study127 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.02% Coverage
+we hypothesize
+Reference 2 - 0.02% Coverage
+We further hypothesize
+Files\\Studies\\Study128 - § 2 references coded [ 0.06% Coverage]
+Reference 1 - 0.03% Coverage
+we hypothesized
+Reference 2 - 0.03% Coverage
+were hypothesized
+Files\\Studies\\Study129 - § 2 references coded [ 0.05% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Reference 2 - 0.03% Coverage
+We also hypothesized
+Files\\Studies\\Study131 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+we predict
+Files\\Studies\\Study132 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+It was hypothesized
+Files\\Studies\\Study133 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+It was hypothesised
+Files\\Studies\\Study134 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+we hypothesized
+Files\\Studies\\Study135 - § 2 references coded [ 0.05% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Reference 2 - 0.03% Coverage
+it was hypothesized
+Files\\Studies\\Study136 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+The hypotheses were
+Files\\Studies\\Study137 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+We hypothesized
+Files\\Studies\\Study138 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+it was hypothesised
+Files\\Studies\\Study139 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We tested the hypotheses
+Files\\Studies\\Study140 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study141 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+It was hypothesised
+Files\\Studies\\Study142 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+We hypothesized
+Files\\Studies\\Study143 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+The main hypotheses were 
+Files\\Studies\\Study144 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+we hypothesized
+Files\\Studies\\Study145 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study146 - § 1 reference coded [ 0.06% Coverage]
+Reference 1 - 0.06% Coverage
+the aim of this study was to test the hypothesis that
+Files\\Studies\\Study148 - § 2 references coded [ 0.03% Coverage]
+Reference 1 - 0.01% Coverage
+It was hypothesized
+Reference 2 - 0.02% Coverage
+It was also hypothesized
+Files\\Studies\\Study149 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+we hypothesized
+Files\\Studies\\Study150 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study151 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+We hypothesized
+Files\\Studies\\Study152 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study153 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+We hypothesized
+Files\\Studies\\Study154 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study155 - § 2 references coded [ 0.06% Coverage]
+Reference 1 - 0.02% Coverage
+we hypothesized
+Reference 2 - 0.03% Coverage
+We also hypothesized
+Files\\Studies\\Study156 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+We hypothesised
+Files\\Studies\\Study157 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study158 - § 2 references coded [ 0.05% Coverage]
+Reference 1 - 0.02% Coverage
+It was hypothesized
+Reference 2 - 0.03% Coverage
+A secondary hypothesis is that
+Files\\Studies\\Study159 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+It is hypothesized
+Files\\Studies\\Study160 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+we hypothesized
+Files\\Studies\\Study161 - § 1 reference coded [ 0.05% Coverage]
+Reference 1 - 0.05% Coverage
+we developed the following hypothesis
+Files\\Studies\\Study162 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study164 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+we hypothesized
+Files\\Studies\\Study165 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+It was hypothesised
+Files\\Studies\\Study166 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study167 - § 2 references coded [ 0.06% Coverage]
+Reference 1 - 0.03% Coverage
+It was hypothesized
+Reference 2 - 0.04% Coverage
+the main hypothesis was
+Files\\Studies\\Study168 - § 2 references coded [ 0.06% Coverage]
+Reference 1 - 0.02% Coverage
+we hypothesized
+Reference 2 - 0.03% Coverage
+we further hypothesize
+Files\\Studies\\Study169 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.03% Coverage
+Our hypothesis is that
+Reference 2 - 0.02% Coverage
+We anticipate
+Files\\Studies\\Study170 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesised
+Files\\Studies\\Study171 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+We hypothesized
+Files\\Studies\\Study172 - § 3 references coded [ 0.07% Coverage]
+Reference 1 - 0.02% Coverage
+the authors hypothesized
+Reference 2 - 0.02% Coverage
+the authors hypothesized
+Reference 3 - 0.02% Coverage
+The authors hypothesized
+Files\\Studies\\Study173 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+We hypothesized
+Files\\Studies\\Study174 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+we tested the hypothesis
+Files\\Studies\\Study175 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+this study’s hypotheses were
+Files\\Studies\\Study176 - § 2 references coded [ 0.07% Coverage]
+Reference 1 - 0.03% Coverage
+Our primary hypothesis was
+Reference 2 - 0.04% Coverage
+Our secondary hypothesis was
+Files\\Studies\\Study177 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesised
+Files\\Studies\\Study178 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+We hypothesized
+Files\\Studies\\Study179 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+Our hypothesis was
+Files\\Studies\\Study180 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+it was hypothesized
+Files\\Studies\\Study181 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+we hypothesized
+Files\\Studies\\Study182 - § 2 references coded [ 0.05% Coverage]
+Reference 1 - 0.03% Coverage
+it was hypothesized
+Reference 2 - 0.02% Coverage
+we hypothesized
+Files\\Studies\\Study183 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study184 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study185 - § 2 references coded [ 0.06% Coverage]
+Reference 1 - 0.03% Coverage
+We hypothesized
+Reference 2 - 0.03% Coverage
+We also hypothesized
+Files\\Studies\\Study186 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study187 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study188 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+It was hypothesized
+Files\\Studies\\Study189 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study190 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+We hypothesized
+Files\\Studies\\Study191 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study192 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study193 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study194 - § 1 reference coded [ 0.10% Coverage]
+Reference 1 - 0.10% Coverage
+The purpose of the current study was to test the hypothesis that
+Files\\Studies\\Study195 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+It is hypothesised
+Files\\Studies\\Study196 - § 2 references coded [ 0.05% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesised
+Reference 2 - 0.02% Coverage
+we anticipated
+Files\\Studies\\Study197 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+It is hypothesized
+Files\\Studies\\Study198 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesised
+Reference 2 - 0.02% Coverage
+We also hypothesised
+Files\\Studies\\Study199 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesize
+Files\\Studies\\Study200 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study201 - § 2 references coded [ 0.03% Coverage]
+Reference 1 - 0.01% Coverage
+We hypothesized
+Reference 2 - 0.02% Coverage
+We also hypothesized
+Files\\Studies\\Study202 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study203 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+It was hypothesised
+Files\\Studies\\Study204 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+It was hypothesized
+Files\\Studies\\Study205 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesised
+Files\\Studies\\Study206 - § 2 references coded [ 0.02% Coverage]
+Reference 1 - 0.01% Coverage
+we hypothesized
+Reference 2 - 0.01% Coverage
+we hypothesized
+Files\\Studies\\Study207 - § 3 references coded [ 0.04% Coverage]
+Reference 1 - 0.01% Coverage
+We hypothesized
+Reference 2 - 0.01% Coverage
+we hypothesized
+Reference 3 - 0.01% Coverage
+we hypothesized
+Files\\Studies\\Study208 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+We expected
+Files\\Studies\\Study209 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study210 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+We hypothesize
+Files\\Studies\\Study211 - § 2 references coded [ 0.06% Coverage]
+Reference 1 - 0.03% Coverage
+Four hypotheses were proposed
+Reference 2 - 0.03% Coverage
+our fourth hypothesis is
+Files\\Studies\\Study212 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+It was hypothesized
+Files\\Studies\\Study213 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study214 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesised
+Files\\Studies\\Study215 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+Our initial hypothesis was
+Files\\Studies\\Study216 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study217 - § 2 references coded [ 0.05% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Reference 2 - 0.03% Coverage
+it was hypothesized
+Files\\Studies\\Study218 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+It was hypothesized
+Files\\Studies\\Study219 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+It was initially hypothesized
+Files\\Studies\\Study220 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study221 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+we hypothesized
+Files\\Studies\\Study222 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study223 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.02% Coverage
+It was hypothesized
+Reference 2 - 0.02% Coverage
+It was also hypothesized
+Files\\Studies\\Study224 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+we hypothesized
+Files\\Studies\\Study225 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+It was hypothesised
+Files\\Studies\\Study226 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesize
+Files\\Studies\\Study227 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesised
+Files\\Studies\\Study228 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+It was hypothesised
+Files\\Studies\\Study229 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study230 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study231 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study232 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+It was hypothesized
+Files\\Studies\\Study233 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study234 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study235 - § 2 references coded [ 0.05% Coverage]
+Reference 1 - 0.02% Coverage
+Our main hypothesis was
+Reference 2 - 0.02% Coverage
+A secondary hypothesis was
+Files\\Studies\\Study236 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.02% Coverage
+we hypothesized
+Reference 2 - 0.02% Coverage
+we hypothesized
+Files\\Studies\\Study237 - § 3 references coded [ 0.06% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Reference 2 - 0.02% Coverage
+We also hypothesized
+Reference 3 - 0.02% Coverage
+We further hypothesized
+Files\\Studies\\Study238 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+we hypothesized
+Files\\Studies\\Study239 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study240 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+Our initial hypothesis was
+Files\\Studies\\Study241 - § 2 references coded [ 0.02% Coverage]
+Reference 1 - 0.01% Coverage
+we hypothesized
+Reference 2 - 0.01% Coverage
+we expected
+Files\\Studies\\Study242 - § 2 references coded [ 0.07% Coverage]
+Reference 1 - 0.02% Coverage
+It was hypothesized
+Reference 2 - 0.05% Coverage
+A secondary hypothesis of the present study was
+Files\\Studies\\Study243 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study244 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+The hypotheses were
+Files\\Studies\\Study245 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+We hypothesized
+Files\\Studies\\Study246 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+The authors hypothesized
+Files\\Studies\\Study247 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study248 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Reference 2 - 0.02% Coverage
+we hypothesized
+Files\\Studies\\Study249 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+It was hypothesized
+Files\\Studies\\Study250 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+It was hypothesised
+Files\\Studies\\Study251 - § 3 references coded [ 0.08% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Reference 2 - 0.02% Coverage
+we hypothesized
+Reference 3 - 0.03% Coverage
+we further hypothesized
+Files\\Studies\\Study252 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study253 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+It was hypothesized
+Files\\Studies\\Study254 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study255 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.02% Coverage
+we hypothesized
+Reference 2 - 0.02% Coverage
+we hypothesized
+Files\\Studies\\Study256 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+can be hypothesized
+Files\\Studies\\Study257 - § 3 references coded [ 0.04% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Reference 2 - 0.01% Coverage
+we expected
+Reference 3 - 0.01% Coverage
+we posit
+Files\\Studies\\Study258 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesize
+Files\\Studies\\Study259 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Reference 2 - 0.02% Coverage
+We also proposed
+Files\\Studies\\Study260 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+we hypothesized
+Files\\Studies\\Study261 - § 2 references coded [ 0.05% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesised
+Reference 2 - 0.03% Coverage
+We also hypothesised
+Files\\Studies\\Study262 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+It was hypothesized
+Files\\Studies\\Study263 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+We hypothesized
+Files\\Studies\\Study264 - § 2 references coded [ 0.05% Coverage]
+Reference 1 - 0.03% Coverage
+We hypothesized
+Reference 2 - 0.03% Coverage
+we hypothesized
+Files\\Studies\\Study265 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+We hypothesized
+Files\\Studies\\Study266 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Reference 2 - 0.02% Coverage
+We also anticipated
+Files\\Studies\\Study267 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+It was expected
+Files\\Studies\\Study268 - § 2 references coded [ 0.03% Coverage]
+Reference 1 - 0.02% Coverage
+It was hypothesised
+Reference 2 - 0.02% Coverage
+it was hypothesised
+Files\\Studies\\Study269 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+We hypothesized
+Files\\Studies\\Study270 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study271 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized
+Files\\Studies\\Study272 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+We hypothesized

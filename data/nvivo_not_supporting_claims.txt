@@ -1,0 +1,114 @@
+Files\\Studies\\Study011 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+our hypothesis was rejected
+Files\\Studies\\Study025 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+In contrast to our hypothesis
+Files\\Studies\\Study026 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+did not support our hypothesis
+Files\\Studies\\Study049 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+Contrary to our hypothesis
+Files\\Studies\\Study070 - § 1 reference coded [ 0.07% Coverage]
+Reference 1 - 0.07% Coverage
+did not support our initial hypothesis
+Files\\Studies\\Study074 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+our main hypotheses were not supported
+Files\\Studies\\Study077 - § 1 reference coded [ 0.05% Coverage]
+Reference 1 - 0.05% Coverage
+contradict our hypothesis
+Files\\Studies\\Study080 - § 1 reference coded [ 0.14% Coverage]
+Reference 1 - 0.14% Coverage
+the hypothesis [...] was not confirmed.
+Files\\Studies\\Study085 - § 1 reference coded [ 0.09% Coverage]
+Reference 1 - 0.09% Coverage
+Our hypotheses [...] were not supported
+Files\\Studies\\Study087 - § 2 references coded [ 0.03% Coverage]
+Reference 1 - 0.02% Coverage
+Contrary to our hypotheses
+Files\\Studies\\Study092 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+In contrast to our hypothesis
+Files\\Studies\\Study096 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+Contrary to our hypothesis
+Files\\Studies\\Study100 - § 1 reference coded [ 0.23% Coverage]
+Reference 1 - 0.23% Coverage
+The hypothesis [...] was not supported
+Files\\Studies\\Study102 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+Contrary to our hypothesis
+Files\\Studies\\Study103 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+in contrast to our initial hypothesis
+Files\\Studies\\Study104 - § 1 reference coded [ 0.07% Coverage]
+Reference 1 - 0.07% Coverage
+In contrast to the main research hypothesis
+Files\\Studies\\Study114 - § 1 reference coded [ 0.08% Coverage]
+Reference 1 - 0.08% Coverage
+The first and second hypotheses were not supported
+Files\\Studies\\Study117 - § 1 reference coded [ 0.06% Coverage]
+Reference 1 - 0.06% Coverage
+Contrary to our initial hypothesis
+Files\\Studies\\Study126 - § 1 reference coded [ 0.05% Coverage]
+Reference 1 - 0.05% Coverage
+This hypothesis was rejected
+Files\\Studies\\Study127 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+contradict those predicted 
+Files\\Studies\\Study137 - § 2 references coded [ 0.15% Coverage]
+Reference 1 - 0.07% Coverage
+Our hypothesis [...] was not supported
+Files\\Studies\\Study148 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+In contrast to our hypothesis
+Files\\Studies\\Study158 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+oppose our hypothesis
+Files\\Studies\\Study164 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+disagree with our hypothesis
+Files\\Studies\\Study166 - § 1 reference coded [ 0.12% Coverage]
+Reference 1 - 0.12% Coverage
+the hypothesis [...] was not confirmed
+Files\\Studies\\Study171 - § 1 reference coded [ 0.06% Coverage]
+Reference 1 - 0.06% Coverage
+in contradiction of our first hypothesis
+Files\\Studies\\Study174 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+Contrary to the tested hypotheses
+Files\\Studies\\Study184 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+in contrast to our hypothesis
+Files\\Studies\\Study197 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+rejects our hypothesis
+Files\\Studies\\Study200 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+did not support the hypotheses
+Files\\Studies\\Study202 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+Contrary to our hypothesis
+Files\\Studies\\Study204 - § 1 reference coded [ 0.09% Coverage]
+Reference 1 - 0.09% Coverage
+not consistent with a priori expectation because we hypothesized that
+Files\\Studies\\Study224 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+contrary to our original hypothesis
+Files\\Studies\\Study235 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+In contrast to our hypothesis
+Files\\Studies\\Study236 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+contrary to our first hypothesis
+Files\\Studies\\Study240 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+Refuting the initial hypothesis
+Files\\Studies\\Study246 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+In contrast to our initial hypothesis
+Files\\Studies\\Study269 - § 1 reference coded [ 0.20% Coverage]
+Reference 1 - 0.20% Coverage
+Our claim [...] is not supported

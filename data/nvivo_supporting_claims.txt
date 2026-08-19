@@ -1,0 +1,183 @@
+Files\\Studies\\Study003 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+supported our hypothesis 
+Files\\Studies\\Study005 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+agreeing with our first hypothesis
+Files\\Studies\\Study017 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+as hypothesized
+Files\\Studies\\Study019 - § 1 reference coded [ 0.10% Coverage]
+Reference 1 - 0.10% Coverage
+Our hypothesis [...] was confirmed
+Files\\Studies\\Study021 - § 1 reference coded [ 0.06% Coverage]
+Reference 1 - 0.06% Coverage
+our first hypothesis was confirmed
+Files\\Studies\\Study022 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+In accordance with our hypothesis 
+Files\\Studies\\Study031 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+support the hypothesis 
+Files\\Studies\\Study032 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+support the hypothesis 
+Files\\Studies\\Study034 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+Our hypotheses were accepted
+Files\\Studies\\Study035 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+confirmed the initial hypothesis 
+Files\\Studies\\Study037 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+In support of the first hypothesis
+Files\\Studies\\Study039 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+supported the hypotheses
+Files\\Studies\\Study047 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+Our initial hypothesis was met
+Files\\Studies\\Study054 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+consistent with our first hypothesis
+Files\\Studies\\Study058 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+meet our hypotheses
+Files\\Studies\\Study060 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+support the hypotheses
+Files\\Studies\\Study065 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+as per our original hypothesis
+Files\\Studies\\Study076 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+Our first hypothesis was accepted
+Files\\Studies\\Study079 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+Hypothesis 1 can be confirmed
+Files\\Studies\\Study084 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+which was consistent with the hypothesis 
+Files\\Studies\\Study088 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+we accepted the hypothesis
+Files\\Studies\\Study089 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+In support of our hypothesis
+Files\\Studies\\Study094 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+in line with our hypothesis
+Files\\Studies\\Study095 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+supported the hypothesis
+Files\\Studies\\Study099 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+confirmed
+Files\\Studies\\Study106 - § 1 reference coded [ 0.06% Coverage]
+Reference 1 - 0.06% Coverage
+In accordance to our original hypothesis
+Files\\Studies\\Study108 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+support our first hypothesis
+Files\\Studies\\Study109 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+In support of our hypothesis
+Files\\Studies\\Study112 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+In agreement with our hypothesis
+Files\\Studies\\Study119 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+Our first hypothesis was confirmed
+Files\\Studies\\Study122 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+supports our first hypothesis
+Files\\Studies\\Study123 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+supports our primary hypothesis
+Files\\Studies\\Study128 - § 1 reference coded [ 0.08% Coverage]
+Reference 1 - 0.08% Coverage
+supported the authors’ initial hypothesis
+Files\\Studies\\Study131 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+In line with our initial expectations
+Files\\Studies\\Study132 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+supports the hypothesis
+Files\\Studies\\Study133 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+support this hypothesis
+Files\\Studies\\Study136 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+In support of Hypothesis 1
+Files\\Studies\\Study143 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+In line with our hypotheses
+Files\\Studies\\Study144 - § 1 reference coded [ 0.16% Coverage]
+Reference 1 - 0.16% Coverage
+We first hypothesized that [...] which was supported
+Files\\Studies\\Study146 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+As hypothesized
+Files\\Studies\\Study154 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+supported our hypothesis
+Files\\Studies\\Study156 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+confirm the hypothesis
+Files\\Studies\\Study161 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+corroborating the hypothesis
+Files\\Studies\\Study165 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+support the study hypothesis
+Files\\Studies\\Study176 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+confirmed our initial hypotheses
+Files\\Studies\\Study188 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+supported our hypothesis
+Files\\Studies\\Study194 - § 1 reference coded [ 0.09% Coverage]
+Reference 1 - 0.09% Coverage
+Consistent with our first experimental hypothesis
+Files\\Studies\\Study195 - § 2 references coded [ 0.26% Coverage]
+Reference 1 - 0.05% Coverage
+The hypothesis [...] was supported.
+Files\\Studies\\Study208 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+confirmed our hypothesis
+Files\\Studies\\Study211 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+supported the first hypothesis
+Files\\Studies\\Study212 - § 1 reference coded [ 0.05% Coverage]
+Reference 1 - 0.05% Coverage
+in agreement with our hypothesis
+Files\\Studies\\Study220 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+Fulfilling our hypothesis
+Files\\Studies\\Study223 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+The first hypothesis is supported
+Files\\Studies\\Study226 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+support our initial hypothesis
+Files\\Studies\\Study232 - § 1 reference coded [ 0.05% Coverage]
+Reference 1 - 0.05% Coverage
+in support of the hypothesis
+Files\\Studies\\Study234 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+confirmed our hypothesis
+Files\\Studies\\Study237 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+supported our hypothesis
+Files\\Studies\\Study245 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+supported our hypothesis
+Files\\Studies\\Study261 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+Consistent with our hypothesis
+Files\\Studies\\Study264 - § 1 reference coded [ 0.08% Coverage]
+Reference 1 - 0.08% Coverage
+The hypothesis of this investigation was conﬁrmed
+Files\\Studies\\Study266 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+As expected

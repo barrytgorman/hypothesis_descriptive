@@ -1,0 +1,111 @@
+---
+title: "Supplemental Material"
+editor: visual
+---
+```{r include=FALSE}
+# packages
+library(flextable)
+library(dplyr)
+library(stringr)
+```
+
+**Table 1.** *Claims phrases of the original authors in their discussion where their hypothesis was supported*.
+
+```{r include=FALSE}
+# descriptives of supporting claims
+
+# read lines
+support_claim_lines <- readLines("data/nvivo_supporting_claims.txt", warn = FALSE)
+
+# remove reference lines and coding notes
+support_claim_lines <- support_claim_lines[!grepl("Reference", support_claim_lines)]
+support_claim_lines <- support_claim_lines[!grepl("Files", support_claim_lines)]
+
+# clean + lowercase
+support_claim_clean <- support_claim_lines[support_claim_lines != ""]
+support_claim_clean <- str_to_lower(str_squish(support_claim_clean))
+support_claim_clean <- support_claim_clean[support_claim_clean != ""]
+
+# frequency table 
+support_claim_freq <- as.data.frame(table(support_claim_clean), stringsAsFactors = FALSE)
+names(support_claim_freq) <- c("word", "freq")
+support_claim_freq <- support_claim_freq %>% 
+  arrange(desc(support_claim_freq$freq))
+
+first_half_support_claim_freq <- support_claim_freq[1:29, ]
+second_half_support_claim_freq <- support_claim_freq[30:58, ]
+
+split_support_claim_freq <- cbind(first_half_support_claim_freq, second_half_support_claim_freq)
+names(split_support_claim_freq) <- c("Term ", "Frequency ", "Term", "Frequency")
+
+```
+
+`r flextable(split_support_claim_freq) %>% fontsize(size = 6, part = "all") %>% padding(padding = 2, part = "all") %>% autofit()`
+
+
+**Table 2.** *Claims phrases of the original authors in their discussion where their hypothesis was not supported*.
+
+```{r include = FALSE}
+# descriptives of none supporting claims
+
+# read lines
+no_support_claim_lines <- readLines("data/nvivo_not_supporting_claims.txt", warn = FALSE)
+
+# remove reference lines and coding notes
+no_support_claim_lines <- no_support_claim_lines[!grepl("Reference", no_support_claim_lines)]
+no_support_claim_lines <- no_support_claim_lines[!grepl("Files", no_support_claim_lines)]
+
+# clean + lowercase
+no_support_claim_clean <- no_support_claim_lines[no_support_claim_lines != ""]
+no_support_claim_clean <- str_to_lower(str_squish(no_support_claim_clean))
+no_support_claim_clean <- no_support_claim_clean[no_support_claim_clean != ""]
+
+# frequency table 
+no_support_claim_freq <- as.data.frame(table(no_support_claim_clean), stringsAsFactors = FALSE)
+names(no_support_claim_freq) <- c("word", "freq")
+no_support_claim_freq <- no_support_claim_freq %>% 
+  arrange(desc(no_support_claim_freq$freq))
+
+first_half_no_support_claim_freq <- no_support_claim_freq[1:15, ]
+second_half_no_support_claim_freq <- no_support_claim_freq[16:30, ]
+
+split_no_support_claim_freq <- cbind(first_half_no_support_claim_freq, second_half_no_support_claim_freq)
+names(split_no_support_claim_freq) <- c("Term ", "Frequency ", "Term", "Frequency")
+
+```
+
+
+`r flextable(split_no_support_claim_freq) %>% fontsize(size = 6, part = "all") %>% padding(padding = 2, part = "all") %>% autofit()`
+
+**Table 3.** *Claim phrases of the original authors in their discussion where their support for their hypothesis was "mixed"*.
+
+```{r include = FALSE}
+# descriptives of mixed claims
+
+# read lines
+mixed_claim_lines <- readLines("data/nvivo_mixed_claims.txt", warn = FALSE)
+
+# remove reference lines and coding notes
+mixed_claim_lines <- mixed_claim_lines[!grepl("Reference", mixed_claim_lines)]
+mixed_claim_lines <- mixed_claim_lines[!grepl("Files", mixed_claim_lines)]
+
+# clean + lowercase
+mixed_claim_clean <- mixed_claim_lines[mixed_claim_lines != ""]
+mixed_claim_clean <- str_to_lower(str_squish(mixed_claim_clean))
+mixed_claim_clean <- mixed_claim_clean[mixed_claim_clean != ""]
+
+# frequency table 
+mixed_claim_freq <- as.data.frame(table(mixed_claim_clean), stringsAsFactors = FALSE)
+names(mixed_claim_freq) <- c("word", "freq")
+mixed_claim_freq <- mixed_claim_freq %>% 
+  arrange(desc(mixed_claim_freq$freq))
+
+first_half_mixed_claim_freq <- mixed_claim_freq[1:12, ]
+second_half_mixed_claim_freq <- mixed_claim_freq[13:24, ]
+
+split_mixed_claim_freq <- cbind(first_half_mixed_claim_freq, second_half_mixed_claim_freq)
+names(split_mixed_claim_freq) <- c("Term ", "Frequency ", "Term", "Frequency")
+
+```
+
+`r flextable(split_mixed_claim_freq) %>% fontsize(size = 6, part = "all") %>% padding(padding = 2, part = "all") %>% autofit()`

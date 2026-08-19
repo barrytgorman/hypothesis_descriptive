@@ -1,0 +1,392 @@
+---
+articletitle: |
+  Hypotheses in Name Only? An Examination of Hypothesis Statements in Sport and Exercise Science Research
+format: 
+  sportrxiv-pdf: default
+author:
+  - name: Gorman, B.T.
+    affiliations:
+      - ref: 1
+    orcid: 0009-0006-4318-5430
+    corresponding: true
+    email: barrytgorman@gmail.com
+  - name: Impellizzeri, F.M.
+    affiliations:
+      - ref: 2
+    orcid: 0000-0002-1703-2573
+  - name: Warne, J. 
+    affiliations:
+      - ref: 1
+    orcid: 0000-0002-4359-8132
+affiliations:
+      - id: 1
+        name: School of Biological, Health and Sport Sciences, Technological University Dublin, Tallaght Campus, Dublin, Ireland.
+      - id: 2
+        name: Human Performance Research Centre, School of Sport, Exercise and Rehabilitation, University of Technology Sydney, Ultimo, Australia.
+abstract: |
+  The replication rate in sport and exercise science was recently estimated to be twenty-eight percent, and the majority of the field's metascientific work has focused on statistical and methodological issues. We argue that these concerns are secondary to a prior concern: whether the hypotheses being tested are falsifiable and informative to begin with. Hypotheses in sport and exercise science appear to be underspecified. So underspecified in fact that almost any outcome can be reconciled with them. These hypotheses may replicate readily but tell us very little, because a test carries evidential weight only to the extent the hypothesis could have failed it. Therefore, as a supplement to a larger project (see preregistration Gorman et al. (2024)), we conducted a qualitative content analysis, using NVivo (version 14), of hypothesis statements from 269 research articles published in quartile one sport and exercise science journals. We primarily examine four features of the hypothesis statements that bear on the severity of the test: their structure, their dependent variables and summary measures, and their directionality. We also discuss the claims researchers make after testing their hypotheses.
+license-type: ccby # change if neccessary
+keywords: [hypothesis testing, falsifiability, severity, sport and exercise science] 
+# optional link to Supplementary Material:
+suppl-link: https://osf.io/ 
+reference-section-title: References
+printnote: "PREPRINT - NOT PEER REVIEWED" 
+bibliography: references.bib 
+pdf-engine: xelatex
+---
+
+```{r include=FALSE}
+# packages
+library(flextable)
+library(htmlwidgets)
+library(webshot2)
+library(ggwordcloud)
+library(stringr)
+library(dplyr)
+library(wordcloud2)
+library(ggplot2)
+```
+
+```{r include=FALSE}
+murphy_rep_estimate_ci <- prop.test(7,25)
+```
+
+# Introduction
+
+The estimated replication rate in sport and exercise science is twenty-eight percent (95% CI \[`r round(murphy_rep_estimate_ci$conf.int[1], 3) * 100`%, `r round(murphy_rep_estimate_ci$conf.int[2], 3) * 100`%\]) [@murphy_estimating_2025]. That is, twenty-eight percent of replications returned a statistically significant effect in the same direction and of similar magnitude to the original. This is a legitimate concern, but we will argue that the replication rate is not the field's most fundamental problem, because it is largely insensitive to the quality of the hypotheses being tested. To understand why, consider the *inverse*. Would a higher replication rate of 70%, for example, reassure us? Our answer is: it depends. More specifically, it depends on the hypothesis being tested (amongst other dependencies). Replication *success* is defined by statistical criteria (typically significance and effect-size consistency); it indicates that a result may be reliably replicable, but it typically provides limited information about the quality or informativeness of the underlying hypothesis itself.
+
+A hypothesis with a low degree of falsifiability i.e. so weakly specified that almost any outcome can be reconciled with it, could yield results that replicate readily while telling us little. Weak predictions of this kind are both easy to confirm and, if real, straightforward to reproduce; as such, a high replication rate obtained this way would not place the field in a better position in the development of knowledge. A test carries evidential weight only to the extent that the hypothesis could have failed it [@mayo_statistical_2018]; replicating a non-severe test merely reproduces a non-severe test. In our view, replications are important, but there is little value in replicating a study whose hypothesis is so underspecified that the result, whatever it turns out to be, is uninformative.
+
+This is why we view the hypothesis problem as logically prior to the methodological one. The meta-scientific literature appears to have primarily focused on the various methodological and statistical issues of the field (for example: lack of statistical power [@mesquida_replication_2022; @mesquida_replicability_2025], small sample sizes [@abt_sample_2025; @abt_power_2020; @mccrum_sample_2022; @mckay_low_2022; @mesquida_publication_2023; @twomey_nature_2021]). However, little specific attention (with the exception of @mesquida_what_2025) has been given to the hypotheses being tested in sport and exercise science research. Concerns about sample size and statistical power are secondary to concerns about whether the hypotheses being tested are falsifiable and informative to begin with. A necessary first step, then, is to examine the hypotheses we are actually testing in the literature.
+
+This paper is part of a larger project (see preregistration @gorman2024), and the 'hypotheses' we discuss here were extracted from 269 articles within quartile one sport and exercise science journals. More specifically, our field rarely explicitly states statistical hypotheses and therefore, we only assumed them as hypotheses when researchers made it explicit that they had 'expectations' from the data. That is, they stated "*we hypothesized...*", "*it was hypothesized...*" "*we expected...*", "*we predicted...*", for example, at the end of the introduction section. This excludes expectations that are implied but never stated. The exclusion is conservative, but the hypothesis statements we have analysed are those the authors themselves marked as hypotheses. The problems we identify are therefore problems with the field's most explicit theoretical commitments, not commitments we have attributed to the authors. Further, the issues discussed here can also be relevant to other statistical approaches (e.g. Bayesian) as long as substantive hypotheses are explicitly stated.
+
+Intentionally or not, sport and exercise research appears to have largely 'landed' on hypothesis testing as *the* method of statistical inference [@buttner_are_2020; @twomey_nature_2021]. Specifically, it appears that the majority of researchers are adopting the Neyman-Pearson approach to null-hypothesis significance testing (NHST). This approach is intended to support reliable, scientific claims whilst controlling long-run error rates [@neyman1928]. The approach first requires a hypothesis *H* and relies on a premise that tests of *H* should be capable of revealing that *H* is false if it is in fact false. That is, the tests should be appropriately stringent or 'severe' and follow the severity requirement [@mayo_statistical_2018], where: "*One does not have evidence for a claim if nothing has been done to rule out ways the claim may be false.*" [@mayo_statistical_2018, p. 5]. When our *H* has survived a severe test, the verisimilitude (or 'truth-likeness') of our theory[^1] is considerably increased or decreased. This severity, however, is reliant on "*all characteristics of a study*" [@lakens2019, p. 224], but in this article we will discuss severity relative to the: hypothesis structure, hypothesis dependent variables and summary measures, and hypothesis directionality. We will also discuss the claims researchers make regarding their hypotheses. It is important to point out that we primarily relate these issues to their impact on statistical significance, not practical significance which is another very important aspect however not covered in the current article (see @mesquida_what_2025 for more on this). User friendly, practical examples will be provided, with some necessary simplifications, with the aims of making researchers aware of these issues and educating them on ways to improve the consistency and logic in their approach to hypothesis formulation and testing. As mentioned, this paper is a supplement to a larger project (see preregistration @gorman2024) and to aid this current article we specifically conducted post-hoc qualitative analysis (using NVivo, version 14) on each of the 269 studies published in quartile one journals between January 2019 and May 2024. We will try to cover multiple observed concerns, some of which would require further elaboration beyond the scope of this article. Therefore, it should be considered, in a sense, a summary of sorts.
+
+[^1]: A theory is not a guess or hunch. It is a "*vehicle of scientists' understanding of phenomena*" [@van_lissa_be_2026, p. 4].
+
+    Further, for clarity, Mayo's 'error-statistical' account warrants "this claim has passed a stringent test" not "the theory is closer to the truth".
+
+# First, do we ask risky questions?
+
+"*One can inquire as to why this is, whether anything can be done about it, or -- a question that should be asked first -- does it really matter anyway?*" [@meehl_psychology_1986, p. 4]
+
+To begin, in some cases it appears that sport and exercise science researchers could be accused of having hypotheses which examine 'low hanging fruit', i.e. hypotheses being framed such that corroboration is the most likely outcome. That is, a hypothesis may be severe and stated precisely but ultimately not risky. We have coined this tendency 'CASHing' (Corroboration-Assured Selection of Hypotheses): researchers cashing by (conveniently) selecting hypotheses with such high *a priori* plausibility, that corroboration is near-assured, and the test is unlikely to fail. Unlike HARKing (Hypothesizing After the Results are Known) [@kerr1998], where the hypothesis is formulated after the results are known, CASHing operates in advance: the hypothesis is genuine and pre-specified, but chosen precisely because it is almost certain to be confirmed. From a probabilistic perspective, this is the most effective way of increasing the chance of corroboration. For example, if we conduct 100 separate studies with the typical alpha (5%) and power (80%) levels and our H~0~ has a 70% probability of being true, then in the long run, `r round((0.8 * 0.30) * 100)`% of the 100 studies will be true positives. Whereas if we do not change the alpha and power but decrease the probability of H~0~ being true to 10% - increasing the probability of H~1~ being true from 30% to 90% - then, in the long run, `r round((0.8 * 0.9) * 100)`% of the 100 studies will be true positives.
+
+With this in mind, and inspired by the weather prediction example of @meehl_appraising_1990 \[p. 110\] and figure 5.3 of @lakens_improving_2022 [p. 116-117], we have created a practical example of CASHing specific to sport and exercise science. We have two sport scientists, let's call them Sport Scientist A and Sport Scientist B, who are supervising one of their athletes (Athlete 1) performing a single counter-movement jump. Athlete 1 is very 'athletic', but this is his first time completing a counter-movement jump on force plates. Before Athlete 1 performs the jump, both sport scientists verbalise a 'hypothesis' to each other:
+
+```{=tex}
+\begin{center}
+
+Sport Scientist A: "\textit{Athlete 1 will have a jump height greater than 0cm}"
+
+Sport Scientist B: "\textit{Athlete 1 will have a jump height greater than or equal to 40.0cm and less than or equal to 42.0cm}"
+
+\end{center}
+```
+Without asking the scientists to formalize their statistical hypotheses or knowing how high the athlete jumped, who has the riskier hypothesis? (Examining **Figure 1** may help you answer this). It should be obvious, it is Sport Scientist B. This is because the only means by which the hypothesis of Sport Scientist A is not supported is if the athlete cannot jump (slim red line on the left panel in **Figure 1**). This is extremely unlikely given that Athlete 1 is (obviously) an athlete and therefore should be able to jump. Ultimately, the hypothesis of Sport Scientist A has a very high probability of being corroborated, and Sport Scientist A can be considered to be CASHing. This may appear as an exaggerated example but from our coding of the sport and exercise science literature, we have seen multiple examples not far from this. Here is one such example taken from the literature:
+
+```{=tex}
+\begin{center}
+
+"\textit{It is hypothesised that positional differences will exist for technical and running performance and that there will be a distinct difference between competition grades for technical and running performance}."
+
+\end{center}
+```
+In the case of the above hypothesis, it is not risky, it only predicts that *differences* will exist between positions and competition grades, despite there already being strong grounds to expect such differences based on positional demands and level of play.
+
+Therefore, it is important for researchers to bear in mind that in some cases, a hypothesis test may not be useful to answer your given question. @lakens_improving_2022 [p.120] proposes that a hypothesis test is 'useful' when: 1) "*both data generating models that are decided between* \[are mutually exclusive and\] *have some plausibility*" and 2) "*it is possible to employ an informative* \[objective\] *methodological procedure*" (bracketed inserts are ours). Taking this into account, Sport Scientist A's hypothesis falls at point 1. It is not a particularly informative hypothesis (Athlete 1 jumped 41.3cm). In comparison, if we do believe testing a hypothesis is warranted then we must follow - because we should also subscribe to following point 2 - Sport Scientist B and make a risky prediction: a prediction where we emerge astounded if something emerges from the noise. In summary, if a hypothesis is not risky, it places little constraint on what counts as supporting or dis-confirming evidence. As a result, it is less falsifiable, less informative, and less capable of advancing theory. To clarify, there are settings where a more generic hypothesis is appropriate, for example, in genuinely exploratory work, where the aim is to generate hypotheses rather than test them. What matters is that such work is labelled as exploratory and not presented as a confirmatory test. Any exploratory hypothesis testing, is therefore better understood as a descriptive flag to identify what might be worth subjecting to more severe testing later. The concern we raise here applies to 'confirmatory' research, where the hypothesis should be specific, determined *a-priori*, and falsifiable.
+
+![The hypothesis of Sport Scientist A and the hypothesis Sport Scientist B. Green zone: area of claimed 'support' for hypotheses. Red line and red zone: area(s) of claimed 'no support' for hypotheses. Image created by BG using Notability (Ginger Labs, Inc. Version 16.7).](figures/figure_1.png)
+
+The above examples, and all following examples, propose that hypotheses are framed prior to data collection, but given the level of positive results in our literature [@buttner_are_2020; @twomey_nature_2021], it would be naive to believe that a high proportion of hypotheses aren't simply produced by HARKing. This can occur as *a priori* hypotheses being suppressed or altered if false, or ad-hoc hypotheses being constructed after some exploration of the data. While HARKed hypotheses may still be true, they are not severe tests as they have been derived from the data and thus can never be proven false. For the remainder of this article, we will, perhaps naively, take the assumption that the observed hypotheses have not been HARKed. Firstly, we do this because this practice is almost impossible to detect in the absence of preregistration and transparency, and secondly because we need to promote concepts of principled hypothesis construction, theoretically constrained operationalisation, and meaningful falsifiability, independent of researchers analytic flexibility. Lastly, we want to highlight that just because a hypothesis was created prior to looking at the data does not equate it to a severe test, as we will see. To begin, we present a conversation on the very structure of hypothesis statements in sport and exercise science research.
+
+# The Structure of Hypothesis Statements
+
+Firstly, if NHST is being utilized, then a researcher's *H* should first be separated into its statistical components, or formal 'model': H~1~ (the affirmation of *H*) and H~0~ (the refutation of *H*). Sport and exercise science researchers typically just state their *H* using a 'verbal' conjecture located near the end of the introduction section:
+
+```{=tex}
+\begin{center}
+
+"\textit{It was hypothesized that acute caffeine supplementation would improve sprint performance}...".
+
+\end{center}
+```
+More specifically, researchers typically employed the terminology displayed in **Table 1**. These verbal statements are a logical starting point for anything we wish to study. However, when we state our hypotheses, we must attempt to narrow the scope of what we exactly mean. If researchers just state *H* as a verbal conjecture with no explicit reference to H~1~, then it is difficult to find evidence (or not find evidence) in support of H~1~, as we do not know explicitly what it is.
+
+While it is typical and acceptable for the hypothesis statement in the introduction to be somewhat more generic, the methods section should provide all the necessary details, including the H~1~ and, where appropriate, the H~0~ (e.g. in the statistical analysis section), so that the operational hypothesis being tested is specific and falsifiable, even if its framing in the introduction is broader (see @steele_test_2026 for an example of H~1~ and H~0~ formulation).
+
+We acknowledge that the null hypothesis, even when not explicitly stated, can *sometimes* be inferred. However, there are quite common situations in which the null hypothesis is not straightforward, may not be zero, or may differ from what most readers and researchers assume. This misunderstanding can be addressed by explicitly clarifying the null hypothesis. For example, non-parametric tests such as the Wilcoxon--Mann--Whitney test, often used in sport science and medicine as a substitute for the t-test to address non-normality, assess stochastic superiority, where the null hypothesis is stochastic equality, rather than equality of means or medians. When a p-value from the Wilcoxon--Mann--Whitney test is presented alongside medians and means, which may of course be reported for descriptive purposes, readers may incorrectly interpret the test as assessing differences in means or medians [@divine_wilcoxon-mann-whitney_2018; @fay_wilcoxon-mann-whitney_2010]. Such an interpretation is only appropriate under specific conditions and strong assumptions [@conroy_what_2012; @fagerland_wilcoxon-mann-whitney_2009]. However, even in this case, the underlying Wilcoxon--Mann--Whitney null hypothesis remains one of stochastic equality rather than equality of means or medians. Changing the analysis changes the hypothesis tested. Therefore, a first suggestion for researchers aiming to test a hypothesis *H* using NHST is to state both their H~0~, and H~1~.
+
+```{r hypothesis terms, include=FALSE}
+
+# 1) read lines
+hyp_lines <- readLines("data/nvivo_hypothesizing_terms.txt", warn = FALSE)
+
+# 2) remove reference lines and coding notes
+hyp_lines <- hyp_lines[!grepl("Reference|Files|Coding Note|Coding Nore", hyp_lines)]
+hyp_lines
+
+# 2) clean + lowercase
+hyp_phrases_clean <- str_to_lower(str_squish(hyp_lines))
+hyp_phrases_clean <- hyp_phrases_clean[nzchar(hyp_phrases_clean)]
+
+# 4) Frequency table (wordcloud2 expects: word, freq)
+hyp_freq <- as.data.frame(table(hyp_phrases_clean), stringsAsFactors = FALSE)
+names(hyp_freq) <- c("phrase", "freq")
+hyp_freq <- hyp_freq %>% arrange(desc(freq))
+
+first_half_hyp_freq <- hyp_freq[1:33, ]
+second_half_hyp_freq <- hyp_freq[34:66, ]
+
+split_hyp_freq <- cbind(first_half_hyp_freq, second_half_hyp_freq)
+names(split_hyp_freq) <- c("Term ", "Frequency ", "Term", "Frequency")
+```
+
+**Table 1**. *The most frequent phrases used to begin a hypothesis statement extracted from each of the 269 hypothesis statements*.
+
+`r flextable(split_hyp_freq) %>% fontsize(size = 8, part = "all") %>% padding(padding = 2, part = "all") %>% autofit()`
+
+Regarding the structure of hypotheses, our primary contention with the surveyed sport and exercise science literature was that they were underspecified. By underspecified, we mean the hypothesis has a stable, general sense, but it is not specifically operationalised and leaves many possible meanings [@sennet_ambiguity_2023]. For example, sport and exercise science researchers in some instances liked to report their hypotheses as primary and secondary hypotheses, or as hypothesis 1 and hypothesis 2 etc. However, the primary hypothesis (what could be considered the focal question of the paper) was and is often very difficult to determine. For example, is the primary hypothesis: hypothesis 1 (or a/i) and just the first variable stated within that hypothesis, hypothesis 1 (or a/i) and all variables stated within that hypothesis, the first variable listed in a hypothesis, the first variable they mention in their hypothesis, the variable mentioned in the title of the paper? The majority of the time, it was impossible to understand the structure of sport and exercise science hypotheses and, more specifically what it would take to 'reject' or 'fail to reject' them. Consider the below example, are hypotheses (1) and (2) part of the same hypothesis or are they separate:
+
+```{=tex}
+\begin{center}
+
+"\textit{We hypothesized that patients with PFP} [patellofemoral pain] \textit{would (1) exhibit additional reductions in all quadriceps neuromuscular function as exercise sets progressed and (2) display lower fatigue levels with worse muscular endurance performance during and after isokinetic exercise compared with the control group.}"
+
+\end{center}
+```
+See another example[^2]:
+
+[^2]: While in this example the authors did report whether each hypothesis was 'confirmed' or not separately in the discussion section. Learning this from the discussion rather than from the hypothesis statement means the reader is told how the prediction was to be evaluated only after the results are known. Instead, the hypothesis statement should specify what pattern of outcomes would have counted against the prediction.
+
+```{=tex}
+\begin{center}
+
+"\textit{We hypothesized that less available time would imply higher mental fatigue (Hypothesis 1) and higher internal (Hypothesis 2a) and external (Hypothesis 2b) physical load than soccer scenarios with more available time.}"
+
+\end{center}
+```
+From both examples, confusion appears to stem from the use of the function word "*and*". While the hypotheses were labelled as "*(1)*" and "*Hypothesis 1*", "*and*" is placed after them, suggesting that hypothesis "*(1)*" and "*(2)*" are part of the same hypothesis, and "*Hypothesis 1*" and "*Hypothesis 2a*" and "*Hypothesis 2b*" are also part of the same hypothesis (Although see footnote 2), respectively. Specifically, the use of numbering (e.g. "*(1)*" and "*Hypothesis 1*") combined with the conjunction "*and*" implies that the listed components may be interpreted as jointly necessary for hypothesis support. Under this interpretation, all sub-components would need to be empirically supported for the hypothesis to be considered confirmed: this has important implications for statistical testing, interpretation of results, and the validity (and strength) of the conclusions drawn. To complicate matters "*We further hypothesized...*" was another connector which caused confusion during the coding process and this was further compounded when "*and*" was used between dependent variables:
+
+```{=tex}
+\begin{center}
+
+"\textit{It was hypothesized that older adults might have decreased foot core capacities and might adopt different neuromuscular control strategies during quiet standing}."
+
+\end{center}
+```
+When sport and exercise science researchers test multiple hypotheses and/or dependent variables this affects how a hypothesis is statistically tested (i.e. are the researchers conducting conjunction or disjunction set testing, or is it individual testing). A conjunction set (i.e. "*and*") of hypotheses and/or dependent variables, also known as intersection-union testing, relates to accepting the overall hypothesis only if all hypotheses and/or dependent variables tests produce a p-value \< $\alpha$. Disjunction, or union-intersection testing, on the other hand only requires at least one hypothesis or dependent variable to produce a p-value \< $\alpha$ to support their overall hypothesis [@matsunaga_familywise_2007; @rubin_when_2021]. Understanding this difference is paramount, as union-intersection testing will inflate type one error (false positives) and thus require multiple comparison adjustment (e.g. Bonferroni correction). Without a formal definition of which case applies in a research paper, the hypothesis has a low degree of falsifiability. To avoid this, each hypothesis should be listed separately as a standalone statement.
+
+In other cases, researchers may use 'and' but imply two separate hypotheses, this constitutes individual testing. Take the following hypothesis as an example:
+
+```{=tex}
+\begin{center}
+
+
+"\textit{We hypothesized that muscular activation, perception of effort, and cardiorespiratory responses would be greater during ECC} [eccentric] \textit{cycling exercise at 30 rpm compared with 60 rpm}..."
+
+\end{center}
+```
+This example may not consist of one hypothesis -- where all three dependent variables increase - but instead three separate hypotheses: increase in: 1) muscular activation, 2) perception of effect, 3) cardiorespiratory responses. A significant finding in support of any of the three would result in the researcher making a distinct claim about that individual hypothesis. This form of testing does not require an alpha adjustment (only if the dependent variable is not an umbrella term). Again, for improved clarity, it would be best to number these hypotheses separately and state exactly how they would be supported or not. Similar to what @bakker_ensuring_2020 reported, we believe hypotheses in our field are so underspecified that if we gave the 269 studies to a group of researchers, it would be challenging for them to reach consensus on simply the number of hypotheses in each study.
+
+It is important to note, although it may be clear by now, that we are inferring the aforementioned structural issues regarding the hypotheses (i.e. this is how they appear to us), but this may not have been the real intention of the authors (i.e. they may not have viewed their hypotheses the same way we did). Either way, this highlights the first ambiguity in current sport and exercise science hypotheses; they can be interpreted differently simply due to their structure. When hypothesis structure, labels and/or conjunctions (e.g. 'and') make it unclear where one hypothesis ends and another begins, it forces the reader to infer which and / or how many hypotheses and variables exist. A hypothesis is not just a sentence but a scientific commitment, and different interpretations change what constitutes as 'support' or 'no support' of the commitment, which should not be the case. In this way, underspecified structure of hypotheses creates ambiguity in scientific commitment, and, downstream, ambiguity in evidential appraisal, meaning hypotheses can be interpreted differently simply due to how they are presented, regardless of the author's actual intent.
+
+# The Estimands of Hypothesis Statements
+
+An estimand is, in statistics, the quantity that is to be estimated. In trials, it is described as an accurate description of the treatment effect of interest which will be estimated during a study. Estimands and estimand frameworks have typically been used in reference to the research question, but we feel they may have a use case in the detailing of hypotheses going forward. According to the @internat2019, an estimand should include five attributes: treatment, population, variable (or endpoint), other intercurrent event and the population-level summary. In this article, however, we will only discuss the endpoint (hereafter referred to as dependent variable for simplicity). We have focused on the dependent variables because in sport and exercise science, researchers should clearly identify and operationalise the dependent variables in their hypotheses, because as we will show, this does not often occur. Without clearly operationalised dependent variables even in the presence of an appropriate summary measure, the results are difficult to interpret and can be meaningless.
+
+```{r include=FALSE}
+# | eval: false
+
+# 1) read lines
+dv_lines <- readLines("data/nvivo_dependent_variables.txt", warn = FALSE)
+
+# 2) remove reference lines and coding notes
+dv_lines <- dv_lines[!grepl("Reference", dv_lines)]
+dv_lines <- dv_lines[!grepl("Files", dv_lines)]
+dv_lines <- dv_lines[!grepl("Coding Note", dv_lines)]
+dv_lines <- dv_lines[!grepl("Coding Nore", dv_lines)]
+dv_lines
+
+# 2) clean + lowercase
+dv_words_clean <- dv_lines[dv_lines != ""]
+dv_words_clean <- str_to_lower(str_squish(dv_words_clean))
+dv_words_clean <- dv_words_clean[dv_words_clean != ""]
+dv_words_clean
+
+# 4) Frequency table (wordcloud2 expects: word, freq)
+dv_freq <- as.data.frame(table(dv_words_clean), stringsAsFactors = FALSE)
+names(dv_freq) <- c("word", "freq")
+dv_freq <- dv_freq %>% 
+  arrange(desc(dv_freq$freq))
+
+```
+
+```{r include=FALSE, warning=FALSE, eval=FALSE}
+# 5) word cloud
+
+wc <- wordcloud2(dv_freq, size = 1, color = "random-dark", rotateRatio = 0)
+
+html_file <- tempfile(fileext = ".html")
+png_file  <- file.path("Figures", "dv_wordcloud.png")
+
+saveWidget(wc, file = html_file, selfcontained = TRUE)
+webshot(html_file, file = png_file, vwidth = 1800, vheight = 1400, zoom = 2, delay = 3)
+
+```
+
+```{r include=FALSE, warning=FALSE}
+# "performance" dvs
+dv_perf <- dv_freq %>%
+  filter(str_detect(word, "performance")) %>%
+  arrange(desc(freq))
+
+first_half_dv_perf_freq <- dv_perf[1:29, ]
+second_half_dv_perf_freq <- dv_perf[30:58, ]
+
+split_dv_perf_freq <- cbind(first_half_dv_perf_freq, second_half_dv_perf_freq)
+names(split_dv_perf_freq) <- c("Term ", "Frequency ", "Term", "Frequency")
+```
+
+# The Dependent Variables of Hypothesis Statements
+
+"*One cannot help but wonder how the field can ever move towards theoretical consensus if everyone is studying something different---or, worse, studying the same thing with a different name.*" [@mcphetres_decade_2021, pp.7].
+
+In sport and exercise science we deal with constructs (i.e. '*strength*') at the abstract, conceptual, or theoretical level, which require a constitutive definition so that we can operationalise them and determine how they can be measured and investigated (i.e. '*1 repetition maximum (kg) on back squat*'). This step is also necessary to develop a clear operationalised hypothesis at the empirical level (e.g. '*participants assigned to an 8-week squat-focused training program can increase their 1 repetition maximum (kg) on back squat compared to participants completing* \[comparison intervention\]'). The operationalisation is used to calculate the summary measure and to statistically test it against a null hypothesis, e.g. no difference at post-test between the one-repetition maximum means of the two intervention groups (e.g. '*mean 1 repetition maximum (kg) on back squat is statistically higher at post-intervention in the experimental group compared to the control group, after adjustment for baseline values*'). While sport and exercise science researchers typically examine operationalised dependent variables using statistical tests, they rarely explicitly state the operationalised dependent variables in hypotheses and/or support the validity of their operationalisations. Instead, researchers usually just state constructs or concepts in their hypotheses. When researchers do this, it results in an inability to test the hypothesis, because it is not clear which measured operationalizations are specifically tied to and valid to represent that construct. Here is an example of such a construct stated within a hypothesis:
+
+```{=tex}
+\begin{center}
+
+"\textit{It was hypothesised that those who participate in a 12-week isometric neck strengthening program will have greater} \underline{\textit{strength}} \textit{improvements compared to those who do not.}" (underline to emphasize the construct)
+
+\end{center}
+```
+To summarise this, and for additional context, we extracted each dependent variable from each hypothesis in our sample using NVivo (Version 14). Each dependent variable is plotted in **Figure 2**. What is obvious from **Figure 2** is that the field does not hypothesise about operationalised dependent variables but instead hypothesises about constructs, typically without supporting the operationalisation in the manuscript. The most common word used was "*performance*"; specifically, it was used `r sum(dv_perf$freq)` times in 269 studies. See **Table 2** for the `r count(dv_perf)` 'unique' ways "*performance"* was stated in the hypothesis statements. Here is one of those examples:
+
+```{=tex}
+\begin{center}
+
+"\textit{We hypothesized that both training conditions would improve} [repeated sprint ability] \underline{\textit{performance}} \textit{as compared to the same training performed with unrestricted breathing}..." (bracketed inserts are ours)
+
+\end{center}
+```
+And here is another example, specifically hypothesising about *neuromuscular performance*:
+
+```{=tex}
+\begin{center}
+
+"\textit{We hypothesized that IRS} [infrared sauna] \textit{after resistance training may enhance recovery of} \underline{\textit{neuromuscular performance}}\textit{, increase nocturnal HRV, and attenuate muscle soreness, as well as biomarkers of muscle damage.}"
+
+\end{center}
+```
+*Neuromuscular performance* in the above example (and see **Table 2** for many other examples), is considered an umbrella term, and is thus, underspecified. Most importantly, when our dependent variables (e.g. *neuromuscular performance*) are underspecified, they cannot be explicitly tested. *Neuromuscular performance* as explicitly stated cannot be tested unless it is precisely operationalised and this operationalisation is reasonable and valid. To demonstrate, let's break the word performance into its dictionary meanings. According to the Cambridge English Dictionary[^3], *performance* is defined as: "*how well a person, machine, etc. does a piece of work or an activity*". Whereas according to the Oxford English Dictionary[^4], it can be defined as: "*The accomplishment or carrying out of something commanded or undertaken; the doing of an action or operation.*" or : "*The quality of execution of such an action, operation, or process; the competence or effectiveness of a person or thing in performing an action; spec. the capabilities, productivity, or success of a machine, product, or person when measured against a standard.*", to list a few. According to the Cambridge definition and one of the Oxford definitions, performance appears to depend on what constitutes as doing an activity 'well'. In the above example *neuromuscular performance* was examined using a countermovement jump (along with other tasks). Therefore, *neuromuscular performance* in this case could potentially be examined through jump height, peak power, ground contact time, maximum voluntary contraction, reflex activity, efficiency, strategy, etc. Oxford dictionary has also defined performance as simply accomplishing a task. Taking the above hypothesis with this definition in mind, would the enhancement of the "*recovery of neuromuscular performance*" be fulfilled by simply performing a countermovement jump? Nevertheless, *performance* appears to be an evaluation concept, not a single measurement that itself can be explicitly tested. Ultimately, it is worrying that *performance* was the most common dependent variable, given how abstract it is.
+
+[^3]: <https://dictionary.cambridge.org/dictionary/english/performance>
+
+[^4]: <https://www.oed.com/dictionary/performance_n?tab=factsheet#31240456>
+
+![Dependent variables extracted from each of the 269 hypothesis statements. The larger a word, the more frequent it was (All abbreviations were spelt out).](Figures/dv_wordcloud.png)
+
+**Table 2.** *Every unique instance of "performance" stated within a hypothesis statement*.
+
+`r flextable(split_dv_perf_freq) %>% fontsize(size = 6, part = "all") %>% padding(padding = 2, part = "all") %>% autofit()`
+
+Notwithstanding its falsifiability, the above example hypotheses utilizing the "*neuromuscular performance*" umbrella term provides researchers with unlimited degrees of freedom to subsequently measure and test multiple dependent variables related to neuromuscular performance[^5]. In this specific example, the researchers statistically investigate the hypothesis using a countermovement jump (cm), a 20m sprint (s) and an isometric leg press (kg): "*Paired t-tests were used to analyze absolute or relative (physical performance) changes (pre-post) between the recovery methods*". The researchers then claim: "*The main finding of this study was that an IRS session improves recovery of power capacity in the lower extremities, assessed by CMJ,... as we hypothesized*". This highlights that a single significant result in any of the operationalisations *counting* as support for the hypothesis. When it is too easy to find support for a claim, @mayo_statistical_2018 would refer to this as "*bad evidence, no test*" or BENT.
+
+[^5]: This also highlights the necessity of preregistering and defining primary outcomes and when researchers have more than one, how you interpret the possible results.
+
+Underspecified hypothesis dependent variables in combination with multiplicity can also lead to a lack of clarity regarding the dependent variable or dependent variables being tested as part of that hypothesis. For instance:
+
+```{=tex}
+\begin{center}
+
+"\textit{We hypothesized that PEBA} [polyether block amide] \textit{midsole would have better RE} [running economy] \textit{than EVA} [Ethylene and vinyl acetate] \textit{midsole when both conditions are fresh; however, the PEBA midsole would suffer more wear after 450 km, which could negatively affect} \underline{\textit{biomechanics}} \textit{and RE.}"
+
+\end{center}
+```
+"*biomechanics*" here is so vague readers may potentially have no idea what is going to be measured, and when the operationalised dependent variables are shown in the results it may then become impossible to link them to "*biomechanics*". Ultimately, it is left to the reader to disambiguate the many possible meanings of an underspecified umbrella term, and thus it may be interpreted differently by different researchers, regarded as definitional ambiguity, as put by @hand_deconstructing_1994. We believe that this not only causes uncertainty at the individual level but we also believe it causes uncertainty at the *collective* level [@mcmahan_ambiguity_2018], and *collective* level uncertainty can have meta-analytical implications. Studies believing they are investigating the same dependent variables may not be testing the same dependent variables and thus the same hypothesis, leading to a possible misunderstanding of what constructs, hypotheses or theories can be supported. Further, the more abstract an underspecified dependent variable, the more difficult it is to agree on an appropriate measure [@mueller_conceptualization_2004], leading to less obvious outcomes. Attempting to compare and synthesize dependent variables and theories can then become impossible and/or incorrect when done at scale across sport and exercise science studies, stifling knowledge advancement.
+
+What is also evident from **Figure 2** and **Table 2**, is the lack of clarity in the summary measures of interest, that is "*how outcomes under different treatment conditions will be compared*" [@kahan_estimands_2021]. The most common summary measure would typically be a mean difference, for example. While researchers typically state the direction of effect (see next section), the phrase "*mean difference*" didn't appear in any of the 269 hypotheses and interestingly the word "*mean*" itself appears in just 5 of the 269 hypotheses. The formalization of hypotheses could again aid with this and could help researchers and their peers understand their estimands of interest (for more on estimands frameworks see @internat2019).
+
+As mentioned already, it cannot be assumed that these hypotheses are "*strategically ambiguous*" [@eisenberg1984] or purposely vague. Underspecification is just a practical nuisance of the English language ("*all language is vague*" [@caws1965, p. 7], and it is not an automatic reason to distrust all of our inferences. This underspecification may simply be due to words being used too 'flippantly' by the authors, or as 'reflex acts'. For example, a paper which hypothesised about a change in "*%CO*[cardiac output] *max*", later, in the same hypothesis, made reference to a change in "*COmax*". Is this the same variable (in the second they may have forgot the % symbol) or two separate variables: clarity and consistency in terminology and language throughout a hypothesis is essential. Further, the underspecified hypothesis dependent variables may, in part, be due to the fact that there are few clearly defined concepts in sport and exercise science (see @steele_what_2020 for an attempt at defining [perception of] effort), which are the foundation of theory formation [@dubin1978]. As a result, it is not surprising that there are also few, if any, clearly defined operationalisations. We therefore, are allowed to be unsure about the validity of our operationalised dependent variables, but if we are testing hypotheses we need to strive to at least operationalise these dependent variables.
+
+In summary, the issue here is not necessarily that underspecified dependent variables are unscientific, and it is common in science that we have different meanings for the same things (this may particularly be the case in sport and exercise science which has many sub-disciplines [@poteiger2023]). We specifically do not have issue with underspecified dependent variables when they are contextualized (within the study's aims for example) or when it is explicitly clear which of the operationalised dependent variables relate to this hypothesis (although, this rarely if ever occurs). Therefore, researchers can state umbrella terms within their hypothesis, *if* the hypothesis was clearly stated *a priori* (preregistered) and it stated that 'x', 'y' and 'z' operationalised dependent variables are the associated measures of this umbrella term (construct). This makes clear that the results are restricted to the specific operationalisation of the construct, which is not the construct itself but only one manifestation of it. In other words, the results can be applied, using one of the aforementioned examples, to strength as measured by the 1-repetition maximum, and not necessarily to the construct as a whole (i.e. they may have effects on other operationalisations). A conclusion generalised to the construct (e.g. 'squat training has an effect on strength') is incorrect and often reflects the generic hypothesis with an undefined dependent variable. While the operationalisation can be presented and elaborated in the Methods section, presenting it in the Aims section and, importantly, in the abstract can help avoid such over-interpretations. We also recommend that researchers state their construct label, along with their *constitutive* and *operational* definitions (see @jeffries_development_2022 for specific detail about how to do this).
+
+# The Directionality of Hypothesis Statements
+
+Let's go back to our Sport Scientists A and B. This time we have two athletes, Athlete 1 (as before) and Athlete 2 who plays on the same team as Athlete 1. Before the athletes jump, Sport Scientists A and B now hypothesise about the difference in jump heights between Athletes 1 and 2:
+
+```{=tex}
+\begin{center}
+
+Sport Scientist A: "\textit{There will be a difference in jump height between Athlete 1 and Athlete 2}"
+
+Sport Scientist B: "\textit{The jump height of Athlete 1 minus the jump height cm of Athlete 2 will be greater than or equal to 3.0cm and less than or equal to 4.0cm}"
+
+\end{center}
+```
+Sport Scientist B remains the riskier tester, their hypothesis is directional and quantitatively bound; they have a much higher chance of proving themselves wrong (e.g. Athlete 1 jumps \< 3.0cm higher than Athlete 2, Athlete 1 jumps \> 4.0cm higher than Athlete 2, or simply if Athlete 2 jumps higher than Athlete 1). Whereas Sport Scientist A can only be proven wrong if the difference in jump height is exactly 0.0cm. The hypothesis of Sport Scientists A would be classified as a nil-null model (i.e. H~0~: the difference in jump height will be exactly 0.0cm), and it is used frequently in sport and exercise science. While some suggest that the nil-null is typically always 'wrong' in some fashion (e.g. @fidler_epistemic_2018), conducting NHST, to test nil-null models, particularly in fields with 'underdeveloped' theories like sport and exercise science is defensible, if done correctly. The deeper problem is that our underspecified hypotheses aren't exposed to tests at all, let alone severe tests, when we evaluate them using only nil-null hypothesis tests. Such tests target the proposition of exactly 0, not the broader claim being made: this insulates the hypothesis from any falsification. A null hypothesis does not have to specify zero difference; it can represent any value that reflects a meaningful benchmark: i.e. the smallest effect size of interest, or range values [@meehl_theory-testing_1967], similar to Sport Scientist B. For instance, when testing whether a new shoe improves running economy, a more informative test might use a minimum-effect threshold, such as H~0~: improvement ≤ 2% versus H~1~: improvement \> 2%, rather than H~0~: improvement = 0%. This is because a change in running economy smaller than roughly 2% is unlikely to be practically meaningful for performance.
+
+Researchers do typically state the direction they expect in their hypotheses. We found that during the coding process, 75.5% (203/269) of studies specifically referred to the direction of the expected effect for all named dependent variables within the hypothesis. This was a positive, although it does suggest \~25% failed to provide a clearl direction for all stated dependent variables in the hypothesis. Here are some examples where the direction was not clearly specified in the hypothesis:
+
+```{=tex}
+\begin{center}
+
+"\textit{Our secondary hypothesis was that this difference in muscle activations would produce different muscle-activation ratios.}"
+
+"\textit{We hypothesized that different wrist postures would result in varying strength levels in HG-S$_{max}$} [handgrip strength]..."
+
+"\textit{We hypothesized that field hockey athletes would display altered scapular balance ratios compared with healthy nonathletes but were uncertain about the nature of these alterations.}"
+
+\end{center}
+```
+While uncertainty regarding the direction of an expected effect is legitimate, it raises the question of what theoretical expectation motivates the hypothesis: if either an increase or a decrease is compatible with the author's expectations, what specifically led them to predict an alteration rather than no difference? Again, all of the above remain 'hypotheses', they are just very broadly scoped [@thompson_scope_2023]. However, where sport and exercise science researchers intend to conduct a severe test, they should aim to formulate hypotheses that are as specific and risky as their theoretical knowledge permits. As Lakens notes: "*A hypothesis test is a very specific answer to a very specific question.*" [@lakens_improving_2022, p.118]. When theoretically justified, a directional prediction is one way of increasing specificity and riskiness because it rules out a large range of possible outcomes. It may also permit the use of a one-sided test, which can improve the statistical power of a test [@cho_is_2013], a priority for sport and exercise science studies which typically tend to have small sample sizes. The lack of direction was commonly observed with studies hypothesising about correlations between variables:
+
+```{=tex}
+\begin{center}
+
+"\textit{The specific hypotheses include that... (2) ankle proprioception would be correlated with ball-hitting performance}...".
+
+\end{center}
+```
+When a researcher states "*correlated*" - "*related*" and "*associated*" were also commonly used - are they referring to positively correlated or negatively correlated? As we have already mentioned, it may be that researchers actually have a directional hypothesis but just reflexively say "*correlated*" or "*related*" in the hypothesis, without understanding its relevance to the statistical test required to examine it. In the majority of instances researchers did hypothesise a directional difference (e.g. 'an intervention will improve...'), but the vast majority still proceeded to then conduct a two-sided statistical test (see Misalignment 1 @mesquida_what_2025 for a more detailed review of this). This may be a product of sport and exercises science researchers not stating their formal statistical hypotheses (H~0~ and H~1~), for example:
+
+```{=tex}
+\begin{center}
+
+
+"\textit{...it was hypothesized that bumper plates would show increases in total work, which will also cause an increase in time under load.}".
+
+
+\end{center}
+```
+If these researchers forced themselves to state their formal hypothesis, the use of symbols (\<, \>, ≤, ≥, etc.) would help clarify the direction they expect and therefore the direction they don't expect. It would also provide further details regarding their estimand; when researchers specify a direction (or not), they rarely say what it is relative to. Take our above example, are the increases relative to baseline, pre-to-post within a session? Or across weeks? Further, while it can be inferred from the aims, what are the bumper plates being compared to (the comparator). If we formalized our hypotheses in combination with clearly defining our constructs, their operationalisations and their summary measures, it would greatly improve the testability and clarity of our hypotheses.
+
+# The Claims we make
+
+The claims we make in sport and exercise science are inherently flawed given we firstly don't state H~0~. This is the underling logic of NHST, if we wish to make a claim regarding *H*, then we must first make a claim that the evidence is inconsistent with H~0~. This may explain why less than 40% of sport and exercise science studies arrive at a conclusion as to whether their hypothesis was supported or not supported; it may be difficult to do without a formal model. When researchers find support or do not find support for their hypothesis, one must typically infer from inspection of the methods, results and discussion sections how the researchers arrived at their conclusion; a process made difficult by the vague hypothesis and multiplicity of dependent variables and statistical tests, as we have already mentioned. Thus, when we do test *H* we must be specific as to what constitutes our observed statistical results being consistent or inconsistent with data, or what constitutes it being inconclusive [@neyman_problem_1933]. In our field we typically fail to do this, researchers often infer that any p-value ≤ 0.05 implies our substantive hypothesis is supported, otherwise our substantive hypothesis is not supported, or no statement regarding the hypothesis is made. To avoid this and make our reporting more consistent, if we have a significant (p \< $\alpha$) p-value (or group of p-values, depending on your hypothesis) from a Neyman-Pearson perspective (and as @lakens_improving_2022 [p.25] stated) we could state that: "*We can* \[tentatively\] *act as if the null hypothesis is false* \[, because the testing procedure controls the long-run type I error rate at $\alpha$, assuming the null hypothesis is true\]". When we do not find a significant p-value (or group of p-values, depending on your hypothesis) we can simply state: "*The data do not allow us to reject the null hypothesis of ...*", with each outcome including a re-iteration of the formal statistical hypothesis for absolute clarity.
+
+In summary, if we continue down the road of poorly defined hypotheses, questionable inferences and underspecified claims will remain. Therefore, first, prior to stating any hypothesis, and prior to beginning any form of research for that matter (regardless of the statistical testing approach), we need to stop, and think, and think again, about our hypotheses. Then, when one examines a hypothesis, prior to seeing the results, there should be no ambiguity about what is being hypothesized. Thus after reading the results section the resultant claim should then, also be obvious. It is not to say that our current hypotheses are 'wrong', but that the quality of their description in the field could definitely improve. This article specifically reminds us that we need to think about the: structure, operationalisation of dependent variables and their summary measures, directionality and logical claims we can make, if we state and test a hypothesis.
+
+# A Final Note
+
+While the examples and advice given here can help increase the testability and perhaps severity of our hypotheses, as researchers it may be beneficial to first ask ourselves: "*what we are trying to find out*". One of intellectual virtues purported by @schwartz_science_2020 [p.3] is that as a scientist we need to be a lover of truth: "*Scientists, scholars, and students need to love the truth to be good at what they do. They need to love the truth because discovering it is the point of their eﬀorts, and because knowing the truth matters.*". We therefore must stick our neck out in search of truth and be ready to severely test our hypotheses. As @feynman1974 explained, we need an "*extra type of integrity that is not lying, but bending over backwards to show how you're maybe wrong, that you ought to do when acting as a scientist.*".
+
+\pagebreak
+
+# Contributions
+
+Gorman, B.T. (Writing -- original draft, Writing -- review & editing, Project administration, Conceptualization, Data analysis and visualisation, Coding), Impellizzeri, F.M. (Writing -- review & editing), Warne, J. (Writing -- review & editing, Supervision, Conceptualization).
+
+# Data and Supplementary Material Accessibility
+
+The data related to this study is publicly available on the OSF (\<\>). The analysis code related to this study is publicly available on GitHub (\<\>).
+
+# Competing interests
+
+Authors declare no competing interests.
+
+# Funding Information
+
+Barry Gorman is funded by Research Ireland - Government of Ireland Postgraduate Scholarship 2025 \[GOIPG/2025/9111\].

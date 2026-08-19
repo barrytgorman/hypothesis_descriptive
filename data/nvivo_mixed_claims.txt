@@ -1,0 +1,72 @@
+Files\\Studies\\Study004 - § 1 reference coded [ 0.06% Coverage]
+Reference 1 - 0.06% Coverage
+partially confirmed our initial hypothesis
+Files\\Studies\\Study038 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+partially supports our hypotheses
+Files\\Studies\\Study044 - § 1 reference coded [ 0.05% Coverage]
+Reference 1 - 0.05% Coverage
+Our hypotheses were partially true
+Files\\Studies\\Study048 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+partially confirm our hypothesis
+Files\\Studies\\Study078 - § 1 reference coded [ 0.05% Coverage]
+Reference 1 - 0.05% Coverage
+Partially supporting our first hypothesis
+Files\\Studies\\Study082 - § 1 reference coded [ 0.06% Coverage]
+Reference 1 - 0.06% Coverage
+our first hypothesis was partially supported
+Files\\Studies\\Study124 - § 1 reference coded [ 0.05% Coverage]
+Reference 1 - 0.05% Coverage
+partially support our first hypothesis
+Files\\Studies\\Study134 - § 1 reference coded [ 0.05% Coverage]
+Reference 1 - 0.05% Coverage
+our hypotheses were partially supported
+Files\\Studies\\Study138 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+These hypotheses were partly supported 
+Files\\Studies\\Study142 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+partially corroborate the initial hypothesis
+Files\\Studies\\Study175 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+partly supporting this study’s hypotheses
+Files\\Studies\\Study178 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+in partial agreement with our initial hypothesis
+Files\\Studies\\Study201 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+The first hypothesis was partially supported
+Files\\Studies\\Study209 - § 1 reference coded [ 0.05% Coverage]
+Reference 1 - 0.05% Coverage
+supported in part our hypotheses
+Files\\Studies\\Study213 - § 1 reference coded [ 0.05% Coverage]
+Reference 1 - 0.05% Coverage
+partially conﬁrm the hypothesis
+Files\\Studies\\Study219 - § 1 reference coded [ 0.07% Coverage]
+Reference 1 - 0.07% Coverage
+Our initial hypothesis was partially confirmed
+Files\\Studies\\Study230 - § 1 reference coded [ 0.05% Coverage]
+Reference 1 - 0.05% Coverage
+partly in agreement with our first hypothesis
+Files\\Studies\\Study241 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+Partly in accordance with our hypothesis
+Files\\Studies\\Study244 - § 1 reference coded [ 0.07% Coverage]
+Reference 1 - 0.07% Coverage
+the hypotheses of the study were partially confirmed
+Files\\Studies\\Study253 - § 1 reference coded [ 0.06% Coverage]
+Reference 1 - 0.06% Coverage
+our hypothesis was partially supported
+Files\\Studies\\Study254 - § 1 reference coded [ 0.05% Coverage]
+Reference 1 - 0.05% Coverage
+In partial support of our hypothesis
+Files\\Studies\\Study260 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+partly support our first hypothesis
+Files\\Studies\\Study265 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+support part of this hypothesis
+Files\\Studies\\Study272 - § 1 reference coded [ 0.06% Coverage]
+Reference 1 - 0.06% Coverage
+our hypothesis was not completely supported

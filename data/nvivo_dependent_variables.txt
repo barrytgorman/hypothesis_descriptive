@@ -1,0 +1,1643 @@
+Files\\Studies\\Study001 - § 3 references coded [ 0.07% Coverage]
+Reference 1 - 0.03% Coverage
+physiological load
+Reference 2 - 0.03% Coverage
+kinematic workload
+Reference 3 - 0.02% Coverage
+internal response
+Files\\Studies\\Study002 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+positional match running demands
+Files\\Studies\\Study003 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+mean power
+Files\\Studies\\Study004 - § 2 references coded [ 0.08% Coverage]
+Reference 1 - 0.05% Coverage
+lower limb joint kinetic patterns
+Reference 2 - 0.04% Coverage
+proximal joint stiffness
+Files\\Studies\\Study005 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+technical and running performance
+Files\\Studies\\Study006 - § 3 references coded [ 0.06% Coverage]
+Reference 1 - 0.01% Coverage
+fat mass deposits
+Reference 2 - 0.03% Coverage
+total and (intra)-abdominal fat mass
+Reference 3 - 0.02% Coverage
+gut microbiota composition
+Files\\Studies\\Study007 - § 1 reference coded [ 0.05% Coverage]
+Reference 1 - 0.05% Coverage
+performance on handball-specific fitness elements
+Files\\Studies\\Study008 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+performance
+Files\\Studies\\Study009 - § 1 reference coded [ 0.05% Coverage]
+Reference 1 - 0.05% Coverage
+haematological and blood biochemical markers
+Files\\Studies\\Study010 - § 2 references coded [ 0.06% Coverage]
+Reference 1 - 0.02% Coverage
+performance
+Reference 2 - 0.04% Coverage
+physical performance
+Files\\Studies\\Study011 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+inhibitory control improvements
+Files\\Studies\\Study012 - § 1 reference coded [ 0.05% Coverage]
+Reference 1 - 0.05% Coverage
+heel-rise height difference (primary outcome)
+Files\\Studies\\Study013 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+Excess postexercise oxygen consumption 
+Files\\Studies\\Study014 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+cross-education effects
+Files\\Studies\\Study015 - § 2 references coded [ 0.02% Coverage]
+Reference 1 - 0.01% Coverage
+weight loss
+Reference 2 - 0.01% Coverage
+fat-free mass
+Files\\Studies\\Study016 - § 1 reference coded [ 0.06% Coverage]
+Reference 1 - 0.06% Coverage
+all skeletal, body composition, and performance metrics
+Files\\Studies\\Study017 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.02% Coverage
+left prefrontal cortex oxygenation
+Reference 2 - 0.02% Coverage
+positive affective response
+Files\\Studies\\Study018 - § 2 references coded [ 0.05% Coverage]
+Reference 1 - 0.02% Coverage
+sprint performance
+Reference 2 - 0.02% Coverage
+propulsive forces
+Files\\Studies\\Study019 - § 4 references coded [ 0.05% Coverage]
+Reference 1 - 0.01% Coverage
+muscle thickness
+Reference 2 - 0.01% Coverage
+pennation angle
+Reference 3 - 0.01% Coverage
+muscle strength
+Reference 4 - 0.01% Coverage
+tendon adaptation
+Files\\Studies\\Study020 - § 2 references coded [ 0.07% Coverage]
+Reference 1 - 0.05% Coverage
+activation of scapular and shoulder muscles
+Reference 2 - 0.02% Coverage
+activation ratios
+Files\\Studies\\Study021 - § 2 references coded [ 0.03% Coverage]
+Reference 1 - 0.02% Coverage
+muscle strength
+Reference 2 - 0.01% Coverage
+hypertrophy
+Files\\Studies\\Study022 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.02% Coverage
+respiratory exchange ratio
+Reference 2 - 0.02% Coverage
+circulating glucose
+Files\\Studies\\Study023 - § 1 reference coded [ 0.09% Coverage]
+Reference 1 - 0.09% Coverage
+mechanical (velocity loss) and metabolic (blood lactate concentration) fatigue
+Files\\Studies\\Study024 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+fat oxidation rates
+Files\\Studies\\Study025 - § 2 references coded [ 0.09% Coverage]
+Reference 1 - 0.05% Coverage
+postexercise muscle connective protein synthesis rates
+Reference 2 - 0.04% Coverage
+postexercise myofibrillar protein synthesis rates
+Files\\Studies\\Study026 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+sensory reweighting impairments
+Files\\Studies\\Study027 - § 3 references coded [ 0.05% Coverage]
+Reference 1 - 0.02% Coverage
+heat and cardiovascular strain
+Reference 2 - 0.02% Coverage
+strength parameters
+Reference 3 - 0.01% Coverage
+soreness
+Files\\Studies\\Study028 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+research variables
+Files\\Studies\\Study029 - § 3 references coded [ 0.06% Coverage]
+Reference 1 - 0.01% Coverage
+critical intensity [...when expressed relative to maximal voluntary contraction]
+Reference 2 - 0.04% Coverage
+time to task failure
+Reference 3 - 0.01% Coverage
+Recovery
+Files\\Studies\\Study030 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+cycling time trial performance
+Files\\Studies\\Study031 - § 3 references coded [ 0.09% Coverage]
+Reference 1 - 0.03% Coverage
+neural and mechanical adaptations
+Reference 2 - 0.03% Coverage
+cardio-metabolic demand
+Reference 3 - 0.03% Coverage
+perceived exertion responses
+Files\\Studies\\Study032 - § 2 references coded [ 0.05% Coverage]
+Reference 1 - 0.04% Coverage
+indirect markers of muscle damage
+Reference 2 - 0.02% Coverage
+proprioception
+Files\\Studies\\Study033 - § 5 references coded [ 0.08% Coverage]
+Reference 1 - 0.02% Coverage
+cardiac function
+Reference 2 - 0.01% Coverage
+wall thickness
+Reference 3 - 0.02% Coverage
+circumferential shorting
+Reference 4 - 0.01% Coverage
+afterload
+Reference 5 - 0.02% Coverage
+cardiac performance
+Files\\Studies\\Study034 - § 2 references coded [ 0.05% Coverage]
+Reference 1 - 0.02% Coverage
+quadriceps function
+Reference 2 - 0.03% Coverage
+self-reported function
+Files\\Studies\\Study035 - § 3 references coded [ 0.04% Coverage]
+Reference 1 - 0.03% Coverage
+neuromuscular performance
+Reference 2 - 0.01% Coverage
+rating of perceived exertion 
+Reference 3 - 0.01% Coverage
+blood pressure
+Files\\Studies\\Study036 - § 2 references coded [ 0.02% Coverage]
+Reference 1 - 0.01% Coverage
+drop jump kinetics
+Reference 2 - 0.01% Coverage
+stretch-shortening cycle function
+Files\\Studies\\Study037 - § 3 references coded [ 0.04% Coverage]
+Reference 1 - 0.02% Coverage
+cognitive performance
+Reference 2 - 0.01% Coverage
+mood
+Reference 3 - 0.02% Coverage
+cognitive function
+Files\\Studies\\Study038 - § 3 references coded [ 0.04% Coverage]
+Reference 1 - 0.02% Coverage
+concentric force
+Reference 2 - 0.01% Coverage
+velocity
+Reference 3 - 0.01% Coverage
+power
+Files\\Studies\\Study039 - § 3 references coded [ 0.05% Coverage]
+Reference 1 - 0.02% Coverage
+anterior cruciate ligament loading variables
+Reference 2 - 0.02% Coverage
+cutting velocities
+Reference 3 - 0.01% Coverage
+stance time
+Files\\Studies\\Study040 - § 3 references coded [ 0.06% Coverage]
+Reference 1 - 0.02% Coverage
+carbohydrate availability
+Reference 2 - 0.01% Coverage
+protein degradation
+Reference 3 - 0.02% Coverage
+next-day performance degradation
+Files\\Studies\\Study041 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.02% Coverage
+muscle perfusion
+Reference 2 - 0.02% Coverage
+oxygen consumption
+Files\\Studies\\Study042 - § 2 references coded [ 0.06% Coverage]
+Reference 1 - 0.02% Coverage
+foot core capacities
+Reference 2 - 0.04% Coverage
+neuromuscular control strategies
+Files\\Studies\\Study043 - § 6 references coded [ 0.10% Coverage]
+Reference 1 - 0.01% Coverage
+lactate threshold
+Reference 2 - 0.01% Coverage
+V̇O2max
+Reference 3 - 0.03% Coverage
+long-distance endurance performance
+Reference 4 - 0.02% Coverage
+anaerobic capacity
+Reference 5 - 0.02% Coverage
+sprint endurance performance
+Reference 6 - 0.01% Coverage
+running economy
+Files\\Studies\\Study044 - § 4 references coded [ 0.22% Coverage]
+Reference 1 - 0.03% Coverage
+Peak elbow-valgus torque
+Reference 2 - 0.07% Coverage
+lead-leg and back-leg extension strength
+Reference 3 - 0.06% Coverage
+upper extremity kinematics and kinetics
+Reference 4 - 0.06% Coverage
+peak shoulder internal-rotation torque
+Files\\Studies\\Study045 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+strength
+Files\\Studies\\Study046 - § 2 references coded [ 0.06% Coverage]
+Reference 1 - 0.05% Coverage
+physiological and perceptual responses
+Reference 2 - 0.02% Coverage
+optimal cadence
+Files\\Studies\\Study047 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.02% Coverage
+cardiorespiratory adaptations
+Reference 2 - 0.02% Coverage
+neuromuscular effects
+Files\\Studies\\Study048 - § 3 references coded [ 0.06% Coverage]
+Reference 1 - 0.03% Coverage
+maximal isometric strength, steadiness, and accuracy of both knee extensor and flexor muscles
+Files\\Studies\\Study049 - § 3 references coded [ 0.04% Coverage]
+Reference 1 - 0.01% Coverage
+evoked torque
+Reference 2 - 0.02% Coverage
+objective fatigability
+Reference 3 - 0.01% Coverage
+central nervous system excitability
+Files\\Studies\\Study050 - § 2 references coded [ 0.07% Coverage]
+Reference 1 - 0.01% Coverage
+ground reaction force data
+Reference 2 - 0.06% Coverage
+lower-limb joint torques and power
+Files\\Studies\\Study051 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+patellofemoral force and stress
+Files\\Studies\\Study052 - § 4 references coded [ 0.07% Coverage]
+Reference 1 - 0.01% Coverage
+power output profile
+Reference 2 - 0.03% Coverage
+endurance durability
+Reference 3 - 0.01% Coverage
+torque
+Reference 4 - 0.01% Coverage
+cadence
+Files\\Studies\\Study053 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+contractile output
+Files\\Studies\\Study054 - § 3 references coded [ 0.04% Coverage]
+Reference 1 - 0.01% Coverage
+performance
+Reference 2 - 0.01% Coverage
+sleep
+Reference 3 - 0.02% Coverage
+recovery of heart rate variability
+Files\\Studies\\Study055 - § 4 references coded [ 0.09% Coverage]
+Reference 1 - 0.03% Coverage
+biomechanical variables
+Reference 2 - 0.03% Coverage
+fatigability in front crawl
+Reference 3 - 0.01% Coverage
+comfort
+Reference 4 - 0.02% Coverage
+motor coordination
+Files\\Studies\\Study056 - § 2 references coded [ 0.07% Coverage]
+Reference 1 - 0.03% Coverage
+Eccentric overload level
+Reference 2 - 0.04% Coverage
+kinetic and kinematic outputs
+Files\\Studies\\Study057 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+Repeated sprint exercise performance
+Files\\Studies\\Study058 - § 3 references coded [ 0.04% Coverage]
+Reference 1 - 0.02% Coverage
+neuromuscular function
+Reference 2 - 0.01% Coverage
+fatigability
+Reference 3 - 0.02% Coverage
+exercise performance
+Files\\Studies\\Study059 - § 2 references coded [ 0.07% Coverage]
+Reference 1 - 0.03% Coverage
+bone mineral density
+Reference 2 - 0.04% Coverage
+bone metabolic marker levels
+Files\\Studies\\Study060 - § 3 references coded [ 0.03% Coverage]
+Reference 1 - 0.01% Coverage
+muscle function
+Reference 2 - 0.01% Coverage
+cross-sectional area
+Reference 3 - 0.01% Coverage
+protective effects
+Files\\Studies\\Study061 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+scapular balance ratios
+Files\\Studies\\Study062 - § 4 references coded [ 0.11% Coverage]
+Reference 1 - 0.02% Coverage
+muscular activation
+Reference 2 - 0.02% Coverage
+perception of effort
+Reference 3 - 0.03% Coverage
+cardiorespiratory responses
+Reference 4 - 0.03% Coverage
+neuromuscular alterations
+Files\\Studies\\Study063 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+psychological responses
+Files\\Studies\\Study064 - § 4 references coded [ 0.05% Coverage]
+Reference 1 - 0.02% Coverage
+movement velocity
+Reference 2 - 0.01% Coverage
+power output
+Reference 3 - 0.01% Coverage
+internal loads
+Reference 4 - 0.01% Coverage
+post-activation performance enhancement effect
+Files\\Studies\\Study065 - § 3 references coded [ 0.10% Coverage]
+Reference 1 - 0.04% Coverage
+Exercise-Induced Arterial Hypoxemia
+Reference 2 - 0.05% Coverage
+pace-controlled simulated 800-m run performance
+Reference 3 - 0.01% Coverage
+ventilation
+Files\\Studies\\Study066 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+running performance
+Files\\Studies\\Study067 - § 2 references coded [ 0.02% Coverage]
+Reference 1 - 0.01% Coverage
+Postactivation performance enhancement
+Reference 2 - 0.02% Coverage
+priming effect
+Files\\Studies\\Study068 - § 3 references coded [ 0.09% Coverage]
+Reference 1 - 0.03% Coverage
+ability to resist changes in running economy
+Reference 2 - 0.04% Coverage
+ability to resist changes in VO2max
+Reference 3 - 0.02% Coverage
+VO2/attainable VO2max
+Files\\Studies\\Study069 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.03% Coverage
+countermovement jump [...performance]
+Files\\Studies\\Study070 - § 3 references coded [ 0.12% Coverage]
+Reference 1 - 0.05% Coverage
+average vertical loading rate and vertical impact peak of the vertical ground-reaction force
+Reference 2 - 0.03% Coverage
+ankle kinematics
+Files\\Studies\\Study071 - § 2 references coded [ 0.10% Coverage]
+Reference 1 - 0.08% Coverage
+markers of inflammation, cellular damage, blood lactate, perceived pain and Rating of perceived exertion
+Reference 2 - 0.01% Coverage
+tolerable
+Files\\Studies\\Study072 - § 2 references coded [ 0.12% Coverage]
+Reference 1 - 0.05% Coverage
+hamstring and trunk muscle activities and latencies
+Reference 2 - 0.07% Coverage
+activation coordination in the muscles stabilising the trunk and pelvis
+Files\\Studies\\Study073 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.01% Coverage
+Performance
+Reference 2 - 0.04% Coverage
+high-alpha power during movement preparation
+Files\\Studies\\Study074 - § 4 references coded [ 0.11% Coverage]
+Reference 1 - 0.01% Coverage
+total work
+Reference 2 - 0.02% Coverage
+time under load
+Reference 3 - 0.02% Coverage
+muscle activation
+Reference 4 - 0.05% Coverage
+joint moments at the shoulder, elbow, and wrist
+Files\\Studies\\Study075 - § 5 references coded [ 0.16% Coverage]
+Reference 1 - 0.03% Coverage
+brain’s electrical frequency
+Reference 2 - 0.03% Coverage
+task-irrelevant thoughts
+Reference 3 - 0.05% Coverage
+focusing outwardly towards external influences
+Reference 4 - 0.03% Coverage
+positive affective responses
+Reference 5 - 0.01% Coverage
+enjoyment
+Files\\Studies\\Study076 - § 3 references coded [ 0.16% Coverage]
+Reference 1 - 0.08% Coverage
+greater ratio of forces during the first four steps of a maximal effort sprint
+Reference 2 - 0.04% Coverage
+joint and segment angular kinematics
+Reference 3 - 0.04% Coverage
+initial acceleration performance
+Files\\Studies\\Study077 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+performance 
+Files\\Studies\\Study078 - § 4 references coded [ 0.11% Coverage]
+Reference 1 - 0.02% Coverage
+loadaxis intercept
+Reference 2 - 0.03% Coverage
+velocity-axis intercept
+Reference 3 - 0.04% Coverage
+load-velocity relationship line
+Reference 4 - 0.02% Coverage
+2000-m rowing ergometer time trial
+Files\\Studies\\Study079 - § 3 references coded [ 0.04% Coverage]
+Reference 1 - 0.02% Coverage
+mental fatigue
+Reference 2 - 0.01% Coverage
+internal [...physical load]
+Reference 3 - 0.01% Coverage
+external [...physical load]
+Files\\Studies\\Study080 - § 1 reference coded [ 0.10% Coverage]
+Reference 1 - 0.10% Coverage
+measures of attention 
+Reference 2 - 0.10% Coverage
+decision-making
+Files\\Studies\\Study081 - § 4 references coded [ 0.08% Coverage]
+Reference 1 - 0.01% Coverage
+jump height
+Reference 2 - 0.02% Coverage
+take-off velocity
+Reference 3 - 0.02% Coverage
+meta-tarsophalangeal joint  variables
+Reference 4 - 0.03% Coverage
+proximal joint variables
+Files\\Studies\\Study082 - § 3 references coded [ 0.10% Coverage]
+Reference 1 - 0.03% Coverage
+extrinsic foot muscles
+Reference 2 - 0.03% Coverage
+intrinsic foot muscles
+Reference 3 - 0.03% Coverage
+foot longitudinal arch
+Files\\Studies\\Study083 - § 2 references coded [ 0.08% Coverage]
+Reference 1 - 0.03% Coverage
+sprint performance
+Reference 2 - 0.05% Coverage
+anteroposterior propulsive forces
+Files\\Studies\\Study084 - § 7 references coded [ 0.08% Coverage]
+Reference 1 - 0.02% Coverage
+foot strike pattern
+Reference 2 - 0.02% Coverage
+morphological properties (length and cross-sectional area) of Achilles tendon
+Reference 4 - 0.01% Coverage
+peak force, stress, corresponding loading rate, and elongation of Achilles tendon
+Files\\Studies\\Study085 - § 4 references coded [ 0.11% Coverage]
+Reference 1 - 0.05% Coverage
+sagittal plane and frontal plane ankle mechanics
+Reference 2 - 0.04% Coverage
+vertical and posterior directed ground reaction forces
+Reference 3 - 0.02% Coverage
+horizontal ground reaction forces
+Reference 4 - 0.01% Coverage
+all ground reaction forces
+Files\\Studies\\Study086 - § 3 references coded [ 0.04% Coverage]
+Reference 1 - 0.02% Coverage
+Yo-YoIRT1
+Reference 2 - 0.02% Coverage
+Yo-YoIRT2
+Reference 3 - 0.01% Coverage
+VO2max
+Files\\Studies\\Study087 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.03% Coverage
+peak tibial acceleration
+Reference 2 - 0.01% Coverage
+Functional Movement Screen scores
+Files\\Studies\\Study088 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.02% Coverage
+elbow stress
+Reference 2 - 0.02% Coverage
+ball velocity
+Files\\Studies\\Study089 - § 4 references coded [ 0.16% Coverage]
+Reference 1 - 0.04% Coverage
+cumulative weighted peak force
+Reference 2 - 0.02% Coverage
+peak insole force
+Reference 3 - 0.04% Coverage
+peak axial sacral acceleration
+Reference 4 - 0.06% Coverage
+peak axial sacral acceleration multiplied by body mass
+Files\\Studies\\Study090 - § 3 references coded [ 0.13% Coverage]
+Reference 1 - 0.05% Coverage
+maximal inspiratory mouth pressure
+Reference 2 - 0.03% Coverage
+lactate removal rate
+Reference 3 - 0.04% Coverage
+swimming aerobic performance
+Files\\Studies\\Study091 - § 3 references coded [ 0.05% Coverage]
+Reference 1 - 0.01% Coverage
+joint range of motion
+Reference 2 - 0.02% Coverage
+muscle stiffness
+Reference 3 - 0.02% Coverage
+stretch tolerance
+Files\\Studies\\Study092 - § 6 references coded [ 0.09% Coverage]
+Reference 1 - 0.02% Coverage
+mean arterial pressure
+Reference 2 - 0.02% Coverage
+ratings of perceived exertion
+Reference 3 - 0.01% Coverage
+Electromyography amplitude
+Reference 4 - 0.02% Coverage
+near-infrared spectroscopy-derived parameters
+Reference 5 - 0.02% Coverage
+oxygenated hemoglobin
+Reference 6 - 0.02% Coverage
+deoxygenated hemoglobin
+Files\\Studies\\Study093 - § 2 references coded [ 0.09% Coverage]
+Reference 1 - 0.05% Coverage
+ankle proprioceptive performance
+Reference 2 - 0.04% Coverage
+ball-hitting performance
+Files\\Studies\\Study094 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.02% Coverage
+accuracy scores
+Reference 2 - 0.02% Coverage
+functional variability
+Files\\Studies\\Study095 - § 3 references coded [ 0.10% Coverage]
+Reference 1 - 0.02% Coverage
+nerve growth factor [...levels]
+Reference 2 - 0.05% Coverage
+glial cell line- derived neurotrophic factor [...levels]
+Reference 3 - 0.02% Coverage
+cyclooxygenase [...levels]
+Files\\Studies\\Study096 - § 3 references coded [ 0.07% Coverage]
+Reference 1 - 0.02% Coverage
+strength levels
+Reference 2 - 0.03% Coverage
+vertical jump height
+Reference 3 - 0.02% Coverage
+changes of direction and sprint time
+Files\\Studies\\Study097 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.03% Coverage
+local muscle stiffness
+Reference 2 - 0.01% Coverage
+joint range of motion
+Files\\Studies\\Study098 - § 3 references coded [ 0.13% Coverage]
+Reference 1 - 0.02% Coverage
+knee joint loadings
+Reference 2 - 0.09% Coverage
+muscle excitation levels in the musculature encompassing and stabilising the knee joint
+Reference 3 - 0.03% Coverage
+biomechanical risk factors
+Files\\Studies\\Study099 - § 4 references coded [ 0.06% Coverage]
+Reference 1 - 0.01% Coverage
+learning
+Reference 2 - 0.01% Coverage
+choice
+Reference 3 - 0.02% Coverage
+conﬁdence
+Reference 4 - 0.02% Coverage
+positive aﬀect
+Files\\Studies\\Study100 - § 7 references coded [ 0.36% Coverage]
+Reference 1 - 0.06% Coverage
+upper extremity kinetics
+Reference 2 - 0.06% Coverage
+full-body kinematics
+Reference 3 - 0.04% Coverage
+ball velocity
+Reference 4 - 0.06% Coverage
+duration of ball ﬂight
+Reference 5 - 0.04% Coverage
+horizontal break
+Reference 6 - 0.04% Coverage
+vertical break
+Reference 7 - 0.07% Coverage
+percentage of strikes thrown
+Files\\Studies\\Study101 - § 5 references coded [ 0.14% Coverage]
+Reference 1 - 0.06% Coverage
+peak and mean time of the directional component but not the linear component
+Reference 2 - 0.04% Coverage
+peak height during isolated countermovement jumps [...and the repeated jump ability]
+Reference 3 - 0.01% Coverage
+mean height
+Reference 4 - 0.02% Coverage
+fatigue index
+Reference 5 - 0.02% Coverage
+reaction times
+Files\\Studies\\Study102 - § 5 references coded [ 0.12% Coverage]
+Reference 1 - 0.04% Coverage
+ankle and knee extensor torques and positive power and work
+Reference 2 - 0.02% Coverage
+hip joint torques and positive power and work
+Reference 3 - 0.02% Coverage
+ankle kinetics
+Reference 4 - 0.02% Coverage
+hip kinetics
+Files\\Studies\\Study103 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+outcome
+Files\\Studies\\Study104 - § 3 references coded [ 0.08% Coverage]
+Reference 1 - 0.04% Coverage
+short sprint distances
+Reference 2 - 0.03% Coverage
+long sprint distances
+Reference 3 - 0.01% Coverage
+agility
+Files\\Studies\\Study105 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+lower extremity biomechanics
+Files\\Studies\\Study106 - § 5 references coded [ 0.17% Coverage]
+Reference 1 - 0.05% Coverage
+knee ﬂexion angle at initial contact
+Reference 2 - 0.05% Coverage
+vertical instantaneous loading rate
+Reference 3 - 0.03% Coverage
+footstrike pattern
+Reference 4 - 0.02% Coverage
+stride length
+Reference 5 - 0.02% Coverage
+running cadence
+Files\\Studies\\Study107 - § 6 references coded [ 0.12% Coverage]
+Reference 1 - 0.03% Coverage
+eicosapentaenoic acid
+Reference 2 - 0.03% Coverage
+docosahexaenoic acid
+Reference 3 - 0.02% Coverage
+omega-3 index
+Reference 4 - 0.01% Coverage
+˙VO2peak
+Reference 5 - 0.02% Coverage
+running economy
+Reference 6 - 0.02% Coverage
+running performance
+Files\\Studies\\Study108 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+Quiet Eye
+Files\\Studies\\Study109 - § 3 references coded [ 0.07% Coverage]
+Reference 1 - 0.02% Coverage
+frontal-plane hip and pelvis kinematics
+Reference 2 - 0.02% Coverage
+clinical outcomes
+Files\\Studies\\Study110 - § 1 reference coded [ 0.07% Coverage]
+Reference 1 - 0.07% Coverage
+force steadiness and accuracy in all 3 muscle groups
+Files\\Studies\\Study111 - § 4 references coded [ 0.17% Coverage]
+Reference 1 - 0.02% Coverage
+muscle volume
+Reference 2 - 0.03% Coverage
+biceps femoris long head fascicle length
+Reference 3 - 0.03% Coverage
+biceps femoris long head passive stiffness
+Reference 4 - 0.09% Coverage
+biceps femoris long head fascicle length/knee extensors, biceps femoris long head/knee extensors and knee ﬂexors/knee extensors muscle volume ratios
+Files\\Studies\\Study112 - § 3 references coded [ 0.03% Coverage]
+Reference 1 - 0.01% Coverage
+upper trapezius-maximal voluntary isometric contractions
+Reference 2 - 0.01% Coverage
+middle trapezius-maximal voluntary isometric contractions
+Reference 3 - 0.01% Coverage
+lower trapezius-maximal voluntary isometric contractions
+Files\\Studies\\Study113 - § 4 references coded [ 0.09% Coverage]
+Reference 1 - 0.05% Coverage
+maximal voluntary isometric contraction
+Reference 2 - 0.02% Coverage
+time to task failure
+Reference 3 - 0.01% Coverage
+electromyographic amplitude 
+Reference 4 - 0.01% Coverage
+electromyographic mean power frequency
+Files\\Studies\\Study114 - § 2 references coded [ 0.07% Coverage]
+Reference 1 - 0.04% Coverage
+tibial accelerations
+Reference 2 - 0.03% Coverage
+shock attenuation
+Files\\Studies\\Study115 - § 4 references coded [ 0.07% Coverage]
+Reference 1 - 0.01% Coverage
+actions
+Reference 2 - 0.02% Coverage
+actions types
+Reference 3 - 0.02% Coverage
+creative actions
+Reference 4 - 0.03% Coverage
+creative actions types
+Files\\Studies\\Study116 - § 4 references coded [ 0.04% Coverage]
+Reference 1 - 0.01% Coverage
+anxiety
+Reference 2 - 0.01% Coverage
+affect
+Reference 3 - 0.02% Coverage
+cognitive control
+Reference 4 - 0.01% Coverage
+alpha power
+Files\\Studies\\Study117 - § 3 references coded [ 0.07% Coverage]
+Reference 1 - 0.02% Coverage
+reaction time
+Reference 2 - 0.02% Coverage
+feeling status
+Reference 3 - 0.02% Coverage
+arousal state
+Files\\Studies\\Study118 - § 9 references coded [ 0.21% Coverage]
+Reference 1 - 0.01% Coverage
+recovery
+Reference 2 - 0.03% Coverage
+patient-rated wrist evaluation
+Reference 3 - 0.01% Coverage
+grip strength
+Reference 4 - 0.02% Coverage
+pinch strength
+Reference 5 - 0.02% Coverage
+tip pinch strength
+Reference 6 - 0.02% Coverage
+key pinch strength
+Reference 7 - 0.02% Coverage
+tripod pinch strength
+Reference 8 - 0.01% Coverage
+wrist range ofmotion
+Reference 9 - 0.06% Coverage
+brachioradialis, and abductor pollicis brevis stiffness
+Files\\Studies\\Study119 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+Postactivation performance enhancement in both upper limbs and lower limbs
+Files\\Studies\\Study120 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+gluteus medius and gluteus maximus [...activation]
+Files\\Studies\\Study121 - § 1 reference coded [ 0.06% Coverage]
+Reference 1 - 0.06% Coverage
+physical and especially perceived intensity
+Files\\Studies\\Study122 - § 2 references coded [ 0.06% Coverage]
+Reference 1 - 0.03% Coverage
+tibial compressive force
+Reference 2 - 0.03% Coverage
+sagittal ankle excursion
+Files\\Studies\\Study123 - § 4 references coded [ 0.12% Coverage]
+Reference 1 - 0.04% Coverage
+anterior cruciate ligament cross-sectional area in the leg that is loaded the most
+Reference 2 - 0.04% Coverage
+bilateral difference in the anterior cruciate ligament cross-sectional area
+Reference 3 - 0.01% Coverage
+peak torques
+Reference 4 - 0.03% Coverage
+patellar tendon diameter
+Files\\Studies\\Study124 - § 3 references coded [ 0.10% Coverage]
+Reference 1 - 0.03% Coverage
+range of hip joint ﬂexion
+Reference 2 - 0.04% Coverage
+hamstring optimal lengths
+Reference 3 - 0.03% Coverage
+hamstring strength
+Files\\Studies\\Study125 - § 3 references coded [ 0.12% Coverage]
+Reference 1 - 0.04% Coverage
+load-carrying performance
+Reference 2 - 0.06% Coverage
+isometric force-time characteristics
+Reference 3 - 0.02% Coverage
+standing long jump performance
+Files\\Studies\\Study126 - § 2 references coded [ 0.11% Coverage]
+Reference 1 - 0.06% Coverage
+energy flow into the proximal pelvis and trunk [...during the acceleration phase]
+Reference 2 - 0.05% Coverage
+energy flow out of the distal pelvis and trunk during the acceleration phase
+Files\\Studies\\Study127 - § 8 references coded [ 0.16% Coverage]
+Reference 1 - 0.02% Coverage
+mechanical energy expenditure from the knee net joint torque
+Reference 2 - 0.03% Coverage
+mechanical energy expenditure from the ankle66 and hip net joint torque 
+Reference 3 - 0.03% Coverage
+[hip and ankle net joint torque  mechanical energy expenditure] contribution, to the total mechanical energy expenditure
+Reference 4 - 0.01% Coverage
+load lifted
+Reference 5 - 0.01% Coverage
+total mechanical energy expenditure
+Reference 6 - 0.01% Coverage
+posture
+Reference 7 - 0.03% Coverage
+hip maximum flexion angle
+Reference 8 - 0.03% Coverage
+peak hip net joint torque, and ankle net joint torque
+Files\\Studies\\Study128 - § 3 references coded [ 0.32% Coverage]
+Reference 1 - 0.04% Coverage
+lumbopelvic control
+Reference 2 - 0.13% Coverage
+control of their throwingside leg during a single-leg bridge maneuver
+Reference 3 - 0.15% Coverage
+control of their non–throwing side leg during a single-leg dynamic balance test.
+Files\\Studies\\Study129 - § 1 reference coded [ 0.14% Coverage]
+Reference 1 - 0.14% Coverage
+energy dissipation and generation by the ankle, knee, and hip joints during maximal jump landing and cutting
+Files\\Studies\\Study131 - § 6 references coded [ 0.12% Coverage]
+Reference 1 - 0.02% Coverage
+mental load of players
+Reference 2 - 0.02% Coverage
+pupil diameters
+Reference 3 - 0.02% Coverage
+saccadic latencies
+Reference 4 - 0.02% Coverage
+saccade velocities
+Reference 5 - 0.02% Coverage
+saccade accuracy
+Reference 6 - 0.02% Coverage
+number of saccades
+Files\\Studies\\Study132 - § 2 references coded [ 0.06% Coverage]
+Reference 1 - 0.03% Coverage
+eccentric peak power
+Reference 2 - 0.03% Coverage
+concentric peak power
+Files\\Studies\\Study133 - § 4 references coded [ 0.13% Coverage]
+Reference 1 - 0.03% Coverage
+endurance capacity
+Reference 2 - 0.01% Coverage
+agility
+Reference 3 - 0.03% Coverage
+sprinting ability
+Reference 4 - 0.05% Coverage
+Australian football-speciﬁc technical skills
+Files\\Studies\\Study134 - § 2 references coded [ 0.07% Coverage]
+Reference 1 - 0.06% Coverage
+cross-sectional areas and thicknesses in the absolute values but not in the normalized values
+Reference 2 - 0.02% Coverage
+shear-wave elastography stiffness
+Files\\Studies\\Study135 - § 6 references coded [ 0.25% Coverage]
+Reference 1 - 0.04% Coverage
+kinetic and spatiotemporal data
+Reference 2 - 0.05% Coverage
+horizontal velocity of the center of mass
+Reference 3 - 0.03% Coverage
+ground contact time
+Reference 4 - 0.05% Coverage
+rate force of development during push-off
+Reference 5 - 0.04% Coverage
+vertical jump performance
+Reference 6 - 0.04% Coverage
+pelvic rotation in landing phase
+Files\\Studies\\Study136 - § 8 references coded [ 0.19% Coverage]
+Reference 1 - 0.01% Coverage
+putting performance
+Reference 2 - 0.02% Coverage
+probability success rate
+Reference 3 - 0.02% Coverage
+mean absolute error from the hole
+Reference 4 - 0.02% Coverage
+Sensorimotor rhythm power during motor preparation
+Reference 5 - 0.02% Coverage
+attention engagements
+Reference 6 - 0.02% Coverage
+conscious motor processing
+Reference 7 - 0.01% Coverage
+physical relaxation
+Files\\Studies\\Study137 - § 3 references coded [ 0.24% Coverage]
+Reference 1 - 0.06% Coverage
+soft tissue glenohumeral internal rotation deficit in the dominant arm
+Reference 2 - 0.06% Coverage
+soft tissue glenohumeral internal rotation deficit in the nondominant arm
+Reference 3 - 0.11% Coverage
+bilateral difference in posterior capsule thickness (posterior capsule hypertrophy)
+Files\\Studies\\Study138 - § 1 reference coded [ 0.05% Coverage]
+Reference 1 - 0.05% Coverage
+vertical jump and 20 m sprint performance
+Files\\Studies\\Study139 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+fascicle behavior
+Files\\Studies\\Study140 - § 2 references coded [ 0.03% Coverage]
+Reference 1 - 0.02% Coverage
+electromyography amplitude
+Reference 2 - 0.01% Coverage
+ratios
+Files\\Studies\\Study141 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+markers of Exercise induced muscle damage
+Files\\Studies\\Study142 - § 5 references coded [ 0.08% Coverage]
+Reference 1 - 0.03% Coverage
+multiple object tracking skill
+Reference 2 - 0.02% Coverage
+heart rate variability
+Reference 3 - 0.01% Coverage
+inhibitory control
+Reference 4 - 0.01% Coverage
+subjective mental fatigue
+Files\\Studies\\Study143 - § 5 references coded [ 0.08% Coverage]
+Reference 1 - 0.03% Coverage
+factors related to explosive strength and maximal power
+Reference 2 - 0.01% Coverage
+type II fibers
+Reference 3 - 0.01% Coverage
+type I fibers
+Reference 4 - 0.02% Coverage
+calcium-handling proteins
+Reference 5 - 0.02% Coverage
+muscle cellular outcomes
+Files\\Studies\\Study144 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.02% Coverage
+energy cost
+Reference 2 - 0.02% Coverage
+leg stiffness
+Files\\Studies\\Study145 - § 4 references coded [ 0.08% Coverage]
+Reference 1 - 0.02% Coverage
+curvature constant
+Reference 2 - 0.02% Coverage
+neuromuscular fatigue
+Reference 3 - 0.01% Coverage
+recovery
+Reference 4 - 0.03% Coverage
+critical torque (in absolute)
+Files\\Studies\\Study146 - § 1 reference coded [ 0.06% Coverage]
+Reference 1 - 0.06% Coverage
+average %V̇O2peak during a cycling time trial
+Files\\Studies\\Study148 - § 3 references coded [ 0.08% Coverage]
+Reference 1 - 0.01% Coverage
+maximal voluntary contractions torque
+Reference 2 - 0.05% Coverage
+central mechanisms contributing to voluntary activation of the elbow flexors
+Reference 3 - 0.03% Coverage
+voluntary activation of the elbow flexors
+Files\\Studies\\Study149 - § 5 references coded [ 0.10% Coverage]
+Reference 1 - 0.02% Coverage
+anaerobic capacity
+Reference 2 - 0.03% Coverage
+gas exchange threshold
+Reference 3 - 0.03% Coverage
+respiratory compensation point
+Reference 4 - 0.01% Coverage
+gas exchange threshold—critical power
+Reference 5 - 0.01% Coverage
+V̇O2max
+Files\\Studies\\Study150 - § 1 reference coded [ 0.05% Coverage]
+Reference 1 - 0.05% Coverage
+muscle- and neural-related variables
+Files\\Studies\\Study151 - § 2 references coded [ 0.05% Coverage]
+Reference 1 - 0.01% Coverage
+integrated myofibrillar protein synthesis rates
+Reference 2 - 0.04% Coverage
+intracellular regulatory signaling responses
+Files\\Studies\\Study152 - § 3 references coded [ 0.09% Coverage]
+Reference 1 - 0.04% Coverage
+quadriceps neuromuscular function
+Reference 2 - 0.02% Coverage
+fatigue levels
+Reference 3 - 0.03% Coverage
+muscular endurance performance
+Files\\Studies\\Study153 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+torque on the elbow
+Files\\Studies\\Study154 - § 3 references coded [ 0.10% Coverage]
+Reference 1 - 0.03% Coverage
+sprint acceleration performance
+Reference 2 - 0.03% Coverage
+underlying mechanical variables
+Reference 3 - 0.03% Coverage
+anteroposterior power and force
+Files\\Studies\\Study155 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+muscle damage
+Files\\Studies\\Study156 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.03% Coverage
+total daily energy expenditure
+Reference 2 - 0.01% Coverage
+training demands
+Files\\Studies\\Study157 - § 5 references coded [ 0.10% Coverage]
+Reference 1 - 0.02% Coverage
+physical fitness
+Reference 2 - 0.02% Coverage
+glycemic control
+Reference 3 - 0.02% Coverage
+vascular function
+Reference 4 - 0.03% Coverage
+cerebrovascular reactivity
+Reference 5 - 0.02% Coverage
+cognitive impairment
+Files\\Studies\\Study158 - § 3 references coded [ 0.02% Coverage]
+Reference 1 - 0.01% Coverage
+%cardiac output max
+Reference 2 - 0.01% Coverage
+%stroke volume max
+Reference 3 - 0.01% Coverage
+cardiac output max
+Files\\Studies\\Study159 - § 2 references coded [ 0.03% Coverage]
+Reference 1 - 0.02% Coverage
+running performance
+Reference 2 - 0.01% Coverage
+conditioning
+Files\\Studies\\Study160 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+hormone indices
+Files\\Studies\\Study161 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+passing decision making
+Files\\Studies\\Study162 - § 3 references coded [ 0.07% Coverage]
+Reference 1 - 0.02% Coverage
+running economy
+Reference 2 - 0.03% Coverage
+short distance performance
+Reference 3 - 0.03% Coverage
+spatiotemporal modifications
+Files\\Studies\\Study164 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+muscle O2 consumption
+Files\\Studies\\Study165 - § 2 references coded [ 0.03% Coverage]
+Reference 1 - 0.02% Coverage
+turning activity
+Reference 2 - 0.02% Coverage
+turning frequency
+Files\\Studies\\Study166 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.03% Coverage
+neuromuscular performance
+Reference 2 - 0.01% Coverage
+performance
+Files\\Studies\\Study167 - § 1 reference coded [ 0.06% Coverage]
+Reference 1 - 0.06% Coverage
+physiological and perceptive responses
+Files\\Studies\\Study168 - § 1 reference coded [ 0.08% Coverage]
+Reference 1 - 0.08% Coverage
+bench press and squat explosive strength performance
+Files\\Studies\\Study169 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.02% Coverage
+preplanned tests
+Reference 2 - 0.02% Coverage
+unexpected tests
+Files\\Studies\\Study170 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+measures of physical fitness
+Files\\Studies\\Study171 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+ankle proprioception
+Files\\Studies\\Study172 - § 3 references coded [ 0.04% Coverage]
+Reference 1 - 0.01% Coverage
+asymmetry
+Reference 2 - 0.01% Coverage
+performance
+Reference 3 - 0.02% Coverage
+upper extremity power
+Files\\Studies\\Study173 - § 2 references coded [ 0.05% Coverage]
+Reference 1 - 0.03% Coverage
+jump performance
+Reference 2 - 0.02% Coverage
+post-activation performance enhancement effects
+Files\\Studies\\Study174 - § 2 references coded [ 0.05% Coverage]
+Reference 1 - 0.02% Coverage
+horizontal velocity
+Reference 2 - 0.03% Coverage
+kinematic and kinetic adaptations
+Files\\Studies\\Study175 - § 2 references coded [ 0.03% Coverage]
+Reference 1 - 0.02% Coverage
+muscle quantity and quality
+Reference 2 - 0.02% Coverage
+single-joint performance
+Files\\Studies\\Study176 - § 2 references coded [ 0.15% Coverage]
+Reference 1 - 0.11% Coverage
+muscle activations in different exercise phases (ascending, stationary, and descending)
+Reference 2 - 0.03% Coverage
+muscle-activation ratios
+Files\\Studies\\Study177 - § 1 reference coded [ 0.06% Coverage]
+Reference 1 - 0.06% Coverage
+physiological, perceptual, and performance adaptations
+Files\\Studies\\Study178 - § 4 references coded [ 0.04% Coverage]
+Reference 1 - 0.02% Coverage
+hand grip strength
+Reference 2 - 0.01% Coverage
+reaction times
+Reference 3 - 0.01% Coverage
+rate of force development
+Reference 4 - 0.01% Coverage
+surface electromyography
+Files\\Studies\\Study179 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+physical demands
+Files\\Studies\\Study180 - § 1 reference coded [ 0.07% Coverage]
+Reference 1 - 0.07% Coverage
+cardiorespiratory and biomechanical variables
+Files\\Studies\\Study181 - § 2 references coded [ 0.08% Coverage]
+Reference 1 - 0.03% Coverage
+muscle damage on the vastus lateralis
+Reference 2 - 0.05% Coverage
+time course muscle performance recovery
+Files\\Studies\\Study182 - § 2 references coded [ 0.06% Coverage]
+Reference 1 - 0.01% Coverage
+limb ground-reaction force
+Reference 2 - 0.04% Coverage
+muscle electromyography
+Files\\Studies\\Study183 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.03% Coverage
+muscle oxygenation
+Reference 2 - 0.01% Coverage
+strength
+Files\\Studies\\Study184 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+mitochondrial content
+Files\\Studies\\Study185 - § 3 references coded [ 0.18% Coverage]
+Reference 1 - 0.08% Coverage
+kinematics at foot contact, specifically at the hips
+Reference 2 - 0.04% Coverage
+peak elbow-varus torque
+Reference 3 - 0.07% Coverage
+peak shoulder internal rotation torque
+Files\\Studies\\Study186 - § 4 references coded [ 0.12% Coverage]
+Reference 1 - 0.05% Coverage
+recovery of neuromuscular performance
+Reference 2 - 0.02% Coverage
+nocturnal Heart rate variability 
+Reference 3 - 0.02% Coverage
+muscle soreness
+Reference 4 - 0.03% Coverage
+biomarkers of muscle damage
+Files\\Studies\\Study187 - § 2 references coded [ 0.07% Coverage]
+Reference 1 - 0.04% Coverage
+technical game-related performance
+Reference 2 - 0.03% Coverage
+physiological response
+Files\\Studies\\Study188 - § 4 references coded [ 0.20% Coverage]
+Reference 1 - 0.07% Coverage
+hip adduction, knee valgus, and tibial internal rotation angles
+Reference 2 - 0.02% Coverage
+knee flexion angle
+Reference 3 - 0.03% Coverage
+H:Q muscle coactivation ratio
+Reference 4 - 0.08% Coverage
+vastus medialis to vastus lateralis (VM:VL) muscle activation ratio
+Files\\Studies\\Study189 - § 2 references coded [ 0.10% Coverage]
+Reference 1 - 0.06% Coverage
+recovery of muscle and joint proprioception
+Reference 2 - 0.03% Coverage
+neuromuscular function
+Files\\Studies\\Study190 - § 3 references coded [ 0.05% Coverage]
+Reference 1 - 0.03% Coverage
+amplitude of the movement-related cortical potential
+Reference 2 - 0.01% Coverage
+rating of perceived exertion
+Reference 3 - 0.02% Coverage
+central motor command
+Files\\Studies\\Study191 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+physical fitness qualities
+Files\\Studies\\Study192 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.02% Coverage
+total sleep time
+Reference 2 - 0.02% Coverage
+sleep quality
+Files\\Studies\\Study193 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+torque complexity
+Files\\Studies\\Study194 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+power output
+Files\\Studies\\Study195 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+angular velocity
+Files\\Studies\\Study196 - § 4 references coded [ 0.15% Coverage]
+Reference 1 - 0.02% Coverage
+walking speed
+Reference 2 - 0.06% Coverage
+physiological and perceptual responses
+Reference 3 - 0.04% Coverage
+exercise-related sensations
+Reference 4 - 0.03% Coverage
+cognitive function
+Files\\Studies\\Study197 - § 2 references coded [ 0.09% Coverage]
+Reference 1 - 0.03% Coverage
+thermal sensation
+Reference 2 - 0.07% Coverage
+performance during rugby-specific conditioning
+Files\\Studies\\Study198 - § 2 references coded [ 0.07% Coverage]
+Reference 1 - 0.03% Coverage
+inter-limb asymmetries
+Reference 2 - 0.04% Coverage
+performance of the exercised leg
+Files\\Studies\\Study199 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+Force-Velocity profile
+Files\\Studies\\Study200 - § 2 references coded [ 0.03% Coverage]
+Reference 1 - 0.02% Coverage
+muscle function
+Reference 2 - 0.01% Coverage
+delayed onset muscle soreness
+Files\\Studies\\Study201 - § 5 references coded [ 0.08% Coverage]
+Reference 1 - 0.02% Coverage
+peak tibial acceleration at foot strike
+Reference 2 - 0.04% Coverage
+performance in muscle function testing
+Reference 3 - 0.01% Coverage
+strength
+Reference 4 - 0.01% Coverage
+power
+Reference 5 - 0.01% Coverage
+endurance
+Files\\Studies\\Study202 - § 10 references coded [ 0.24% Coverage]
+Reference 1 - 0.02% Coverage
+plasma osmolality
+Reference 2 - 0.03% Coverage
+urinary sodium excretion
+Reference 3 - 0.03% Coverage
+ad libitum ﬂuid intake
+Reference 4 - 0.02% Coverage
+net water balance
+Reference 5 - 0.02% Coverage
+plasma sodium
+Reference 6 - 0.02% Coverage
+heart rate
+Reference 7 - 0.02% Coverage
+rectal temperature
+Reference 8 - 0.04% Coverage
+rating of perceived exertion
+Reference 9 - 0.03% Coverage
+thermal comfort rating
+Reference 10 - 0.02% Coverage
+hydration status
+Files\\Studies\\Study203 - § 2 references coded [ 0.06% Coverage]
+Reference 1 - 0.02% Coverage
+blood lactate
+Reference 2 - 0.04% Coverage
+neuromuscular activation
+Files\\Studies\\Study204 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+vertical jump performance
+Files\\Studies\\Study205 - § 2 references coded [ 0.11% Coverage]
+Reference 1 - 0.06% Coverage
+contribution of the lower limb segments and trunk
+Reference 2 - 0.04% Coverage
+contribution of the upper limbs
+Files\\Studies\\Study206 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+maximal club head speed at ball impact
+Files\\Studies\\Study207 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+mid-range shooting performance and retention
+Files\\Studies\\Study208 - § 2 references coded [ 0.03% Coverage]
+Reference 1 - 0.02% Coverage
+working memory
+Reference 2 - 0.01% Coverage
+effects
+Files\\Studies\\Study209 - § 4 references coded [ 0.19% Coverage]
+Reference 1 - 0.08% Coverage
+glenohumeral elevation and horizontal-abduction angles
+Reference 2 - 0.04% Coverage
+scapular upward rotation
+Reference 3 - 0.02% Coverage
+posterior tilt
+Reference 4 - 0.05% Coverage
+lower trunk rotation and side flexion
+Files\\Studies\\Study210 - § 4 references coded [ 0.08% Coverage]
+Reference 1 - 0.02% Coverage
+Froude efficiency
+Reference 2 - 0.03% Coverage
+intracyclic velocity fluctuation
+Reference 3 - 0.02% Coverage
+upper limb velocity
+Reference 4 - 0.02% Coverage
+swimming velocity
+Files\\Studies\\Study211 - § 3 references coded [ 0.09% Coverage]
+Reference 1 - 0.04% Coverage
+perceived expectations of success
+Reference 2 - 0.03% Coverage
+task performance and learning
+Reference 3 - 0.02% Coverage
+club kinematics
+Files\\Studies\\Study212 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+neuromuscular performance
+Files\\Studies\\Study213 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+dynamic postural control
+Files\\Studies\\Study214 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+measures of physical fitness
+Files\\Studies\\Study215 - § 5 references coded [ 0.12% Coverage]
+Reference 1 - 0.02% Coverage
+dependent variables
+Reference 2 - 0.02% Coverage
+physiological demands
+Reference 3 - 0.01% Coverage
+enjoyment
+Reference 4 - 0.03% Coverage
+physiological responses
+Reference 5 - 0.03% Coverage
+technical-tactical actions
+Files\\Studies\\Study216 - § 2 references coded [ 0.04% Coverage]
+Reference 1 - 0.02% Coverage
+hip abductors torque
+Reference 2 - 0.02% Coverage
+gait variables
+Files\\Studies\\Study217 - § 2 references coded [ 0.07% Coverage]
+Reference 1 - 0.04% Coverage
+rowing ergometer performance
+Reference 2 - 0.03% Coverage
+rowing performance
+Files\\Studies\\Study218 - § 2 references coded [ 0.05% Coverage]
+Reference 1 - 0.01% Coverage
+1RM scores
+Reference 2 - 0.04% Coverage
+kinematic and kinetic variables
+Files\\Studies\\Study219 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+dependent variables
+Files\\Studies\\Study220 - § 2 references coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+running economy
+Reference 2 - 0.01% Coverage
+wear
+Files\\Studies\\Study221 - § 2 references coded [ 0.05% Coverage]
+Reference 1 - 0.02% Coverage
+net neural drive
+Reference 2 - 0.03% Coverage
+first 50 ms of force production
+Files\\Studies\\Study222 - § 2 references coded [ 0.12% Coverage]
+Reference 1 - 0.06% Coverage
+reactive lower extremity joint kinematics
+Reference 2 - 0.07% Coverage
+ankle inversion angular velocity and displacement
+Files\\Studies\\Study223 - § 2 references coded [ 0.07% Coverage]
+Reference 1 - 0.04% Coverage
+ice skating speed, acceleration, and agility
+Reference 2 - 0.03% Coverage
+ice skating kinematics and kinetics
+Files\\Studies\\Study224 - § 3 references coded [ 0.12% Coverage]
+Reference 1 - 0.02% Coverage
+Clinical Outcomes
+Reference 2 - 0.07% Coverage
+Victorian Institute of Sport Assessment–Patella questionnaire
+Reference 3 - 0.03% Coverage
+functional, and structural outcomes
+Files\\Studies\\Study225 - § 4 references coded [ 0.08% Coverage]
+Reference 1 - 0.02% Coverage
+fundamental movement skills competence
+Reference 2 - 0.03% Coverage
+muscular fitness parameters
+Reference 3 - 0.02% Coverage
+self-perception
+Reference 4 - 0.02% Coverage
+actual behaviour
+Files\\Studies\\Study226 - § 2 references coded [ 0.03% Coverage]
+Reference 1 - 0.01% Coverage
+ﬂight time
+Reference 2 - 0.02% Coverage
+contact time
+Files\\Studies\\Study227 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+dependent variables
+Files\\Studies\\Study228 - § 2 references coded [ 0.05% Coverage]
+Reference 1 - 0.02% Coverage
+Mental fatigue
+Reference 2 - 0.03% Coverage
+physical fatigue
+Files\\Studies\\Study229 - § 2 references coded [ 0.08% Coverage]
+Reference 1 - 0.03% Coverage
+ankle plantarflexion angle
+Reference 2 - 0.05% Coverage
+ankle dorsiflexion and eversion angles and moments
+Files\\Studies\\Study230 - § 9 references coded [ 0.13% Coverage]
+Reference 1 - 0.01% Coverage
+Plasma nitrate, nitrite, cysteine and glutathione 
+Reference 2 - 0.02% Coverage
+time-to-exhaustion
+Reference 3 - 0.02% Coverage
+Plasma malondialdehyde
+Reference 4 - 0.03% Coverage
+neuromuscular function
+Files\\Studies\\Study231 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+physical and cognitive performance
+Files\\Studies\\Study232 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+power clean performance
+Files\\Studies\\Study233 - § 3 references coded [ 0.09% Coverage]
+Reference 1 - 0.03% Coverage
+hamstrings stiffness
+Reference 2 - 0.04% Coverage
+eccentric hamstrings strength
+Reference 3 - 0.02% Coverage
+landing proﬁles
+Files\\Studies\\Study234 - § 1 reference coded [ 0.03% Coverage]
+Reference 1 - 0.03% Coverage
+ball speed and accuracy
+Files\\Studies\\Study235 - § 3 references coded [ 0.05% Coverage]
+Reference 1 - 0.02% Coverage
+elastic modulus
+Reference 2 - 0.02% Coverage
+patient satisfaction
+Reference 3 - 0.01% Coverage
+muscle atrophy
+Files\\Studies\\Study236 - § 4 references coded [ 0.11% Coverage]
+Reference 1 - 0.01% Coverage
+knee flexion
+Reference 2 - 0.02% Coverage
+peak knee moments
+Reference 3 - 0.03% Coverage
+peak ankle extensor moment
+Reference 4 - 0.05% Coverage
+dorsiflexion and negative work at the metatarsophalangeal joint
+Files\\Studies\\Study237 - § 2 references coded [ 0.06% Coverage]
+Reference 1 - 0.02% Coverage
+knee biomechanics
+Reference 2 - 0.05% Coverage
+strength deficits in the quadriceps and hamstring
+Files\\Studies\\Study238 - § 2 references coded [ 0.06% Coverage]
+Reference 1 - 0.04% Coverage
+short-interval cortical inhibition
+Reference 2 - 0.03% Coverage
+corticospinal excitability
+Files\\Studies\\Study239 - § 1 reference coded [ 0.02% Coverage]
+Reference 1 - 0.02% Coverage
+performance
+Files\\Studies\\Study240 - § 1 reference coded [ 0.06% Coverage]
+Reference 1 - 0.06% Coverage
+strength and morphological adaptations
+Files\\Studies\\Study241 - § 2 references coded [ 0.02% Coverage]
+Reference 1 - 0.01% Coverage
+balance
+Reference 2 - 0.01% Coverage
+muscle power
+Files\\Studies\\Study242 - § 6 references coded [ 0.12% Coverage]
+Reference 1 - 0.04% Coverage
+mean anterior–posterior force
+Reference 2 - 0.02% Coverage
+peak resultant force
+Reference 3 - 0.02% Coverage
+vertical force
+Reference 4 - 0.02% Coverage
+medial-lateral force
+Reference 5 - 0.01% Coverage
+stance times
+Reference 6 - 0.01% Coverage
+Vertical impulse
+Files\\Studies\\Study243 - § 2 references coded [ 0.05% Coverage]
+Reference 1 - 0.03% Coverage
+patient-reported outcomes scores
+Reference 2 - 0.02% Coverage
+dynamic hip range of motion
+Files\\Studies\\Study244 - § 2 references coded [ 0.07% Coverage]
+Reference 1 - 0.02% Coverage
+performance
+Reference 2 - 0.06% Coverage
+subjective perceptions of hunger and satiety
+Files\\Studies\\Study245 - § 1 reference coded [ 0.01% Coverage]
+Reference 1 - 0.01% Coverage
+surface electromyography amplitude
+Files\\Studies\\Study246 - § 1 reference coded [ 0.06% Coverage]
+Reference 1 - 0.06% Coverage
+physiological, performance, as well as training and racing characteristics
+Files\\Studies\\Study247 - § 5 references coded [ 0.17% Coverage]
+Reference 1 - 0.04% Coverage
+transdiaphragmatic pressure
+Reference 2 - 0.05% Coverage
+diaphragm electromyography
+Reference 3 - 0.03% Coverage
+time-to-exhaustion
+Reference 4 - 0.01% Coverage
+dyspnea
+Reference 5 - 0.04% Coverage
+respiratory muscle fatigue
+Files\\Studies\\Study248 - § 5 references coded [ 0.15% Coverage]
+Reference 1 - 0.04% Coverage
+repeated high-intensity efforts ability
+Reference 2 - 0.02% Coverage
+repeated sprints
+Reference 3 - 0.04% Coverage
+repeated contact effort performance
+Reference 4 - 0.03% Coverage
+high-intensity running
+Reference 5 - 0.03% Coverage
+contact efforts production
+Files\\Studies\\Study249 - § 2 references coded [ 0.10% Coverage]
+Reference 1 - 0.05% Coverage
+muscle-tendon unit stiffness
+Reference 2 - 0.05% Coverage
+muscle strength of the hamstrings
+Files\\Studies\\Study250 - § 2 references coded [ 0.02% Coverage]
+Reference 1 - 0.01% Coverage
+sweat rate
+Reference 2 - 0.01% Coverage
+sodium loss
+Files\\Studies\\Study251 - § 4 references coded [ 0.10% Coverage]
+Reference 1 - 0.01% Coverage
+movement
+Reference 2 - 0.03% Coverage
+protective effect
+Reference 3 - 0.03% Coverage
+sports performance
+Reference 4 - 0.04% Coverage
+subjective comfort rating
+Files\\Studies\\Study252 - § 2 references coded [ 0.11% Coverage]
+Reference 1 - 0.06% Coverage
+activation of all parts of the trapezius
+Reference 2 - 0.05% Coverage
+upper trapezius/middle trapezius and upper trapezius/lower trapezius activation ratios
+Files\\Studies\\Study253 - § 4 references coded [ 0.10% Coverage]
+Reference 1 - 0.03% Coverage
+wrist joint moment
+Reference 2 - 0.02% Coverage
+joint angles
+Reference 3 - 0.03% Coverage
+total joint range of motion arc
+Reference 4 - 0.03% Coverage
+ground-reaction force in back handsprings
+Files\\Studies\\Study254 - § 7 references coded [ 0.29% Coverage]
+Reference 1 - 0.02% Coverage
+support moment
+Reference 2 - 0.04% Coverage
+extensor moment of the knee
+Reference 3 - 0.04% Coverage
+extensor moment of the ankle
+Reference 4 - 0.04% Coverage
+extensor moment of the hip
+Reference 5 - 0.05% Coverage
+percent contribution of the ankle
+Reference 6 - 0.06% Coverage
+percent contribution of the knee would
+Reference 7 - 0.05% Coverage
+percent contribution of the hip
+Files\\Studies\\Study255 - § 3 references coded [ 0.04% Coverage]
+Reference 1 - 0.01% Coverage
+range of movement
+Reference 2 - 0.02% Coverage
+tissue hardness
+Reference 3 - 0.01% Coverage
+Countermovement jump height
+Files\\Studies\\Study256 - § 3 references coded [ 0.09% Coverage]
+Reference 1 - 0.03% Coverage
+movement velocities
+Reference 2 - 0.02% Coverage
+force levels
+Reference 3 - 0.05% Coverage
+mechanical performance measures
+Files\\Studies\\Study257 - § 2 references coded [ 0.07% Coverage]
+Reference 1 - 0.03% Coverage
+maximal handgrip strength
+Reference 2 - 0.04% Coverage
+motor evoked potentials amplitudes
+Files\\Studies\\Study258 - § 4 references coded [ 0.05% Coverage]
+Reference 1 - 0.01% Coverage
+heart rate variability profile
+Reference 2 - 0.01% Coverage
+stress
+Reference 3 - 0.01% Coverage
+sleepiness
+Reference 4 - 0.01% Coverage
+fatigue
+Files\\Studies\\Study259 - § 3 references coded [ 0.09% Coverage]
+Reference 1 - 0.03% Coverage
+functional balance deficits
+Reference 2 - 0.02% Coverage
+rectal temperature
+Reference 3 - 0.03% Coverage
+perceived exertion measures
+Files\\Studies\\Study260 - § 2 references coded [ 0.03% Coverage]
+Reference 1 - 0.02% Coverage
+inhibited response [...in both the cognitive and the motor tasks]
+Reference 2 - 0.01% Coverage
+simple response [...in both the cognitive and the motor tasks]
+Files\\Studies\\Study261 - § 3 references coded [ 0.12% Coverage]
+Reference 1 - 0.07% Coverage
+mechanical work done by lower limb joint moments
+Reference 2 - 0.02% Coverage
+sprint speed
+Reference 3 - 0.04% Coverage
+work done by the hip moments
+Files\\Studies\\Study262 - § 1 reference coded [ 0.05% Coverage]
+Reference 1 - 0.05% Coverage
+kinematics of a single-leg drop vertical jump leg
+Files\\Studies\\Study263 - § 2 references coded [ 0.05% Coverage]
+Reference 1 - 0.03% Coverage
+sprint performance
+Reference 2 - 0.02% Coverage
+post-activation performance enhancement responses
+Files\\Studies\\Study264 - § 4 references coded [ 0.13% Coverage]
+Reference 1 - 0.03% Coverage
+elbow ﬂexion at foot contact
+Reference 2 - 0.04% Coverage
+shoulder external rotation at maximum external rotation
+Reference 3 - 0.02% Coverage
+ball velocity
+Reference 4 - 0.04% Coverage
+throwing arm kinetics
+Files\\Studies\\Study265 - § 1 reference coded [ 0.04% Coverage]
+Reference 1 - 0.04% Coverage
+lower-body strength, power, and acceleration
+Files\\Studies\\Study266 - § 4 references coded [ 0.08% Coverage]
+Reference 1 - 0.03% Coverage
+event-related potentials
+Reference 2 - 0.02% Coverage
+action anticipation
+Reference 3 - 0.02% Coverage
+cue-anticipation
+Reference 4 - 0.01% Coverage
+amplitudes
+Files\\Studies\\Study267 - § 6 references coded [ 0.17% Coverage]
+Reference 1 - 0.02% Coverage
+pass accuracy
+Reference 2 - 0.02% Coverage
+outcome error
+Reference 3 - 0.03% Coverage
+football control
+Reference 4 - 0.02% Coverage
+control error
+Reference 5 - 0.05% Coverage
+concurrent number call task
+Reference 6 - 0.03% Coverage
+number call error
+Files\\Studies\\Study268 - § 3 references coded [ 0.05% Coverage]
+Reference 1 - 0.02% Coverage
+pain unpleasantness
+Reference 2 - 0.01% Coverage
+pain intensity
+Reference 3 - 0.02% Coverage
+muscular endurance time
+Files\\Studies\\Study269 - § 4 references coded [ 0.11% Coverage]
+Reference 1 - 0.03% Coverage
+sport-specific physical performance
+Reference 2 - 0.02% Coverage
+repeated-sprint ability
+Reference 3 - 0.02% Coverage
+on-field aerobic capacity
+Reference 4 - 0.03% Coverage
+vascular function adaptations
+Files\\Studies\\Study270 - § 3 references coded [ 0.11% Coverage]
+Reference 1 - 0.04% Coverage
+maximum muscular strength
+Reference 2 - 0.01% Coverage
+technique
+Reference 3 - 0.05% Coverage
+100-m butterfly swimming performance
+Files\\Studies\\Study271 - § 6 references coded [ 0.19% Coverage]
+Reference 1 - 0.06% Coverage
+game-based relevant performance responses
+Reference 2 - 0.03% Coverage
+physical enjoyment
+Reference 3 - 0.03% Coverage
+total distance covered
+Reference 4 - 0.03% Coverage
+technical actions
+Reference 5 - 0.01% Coverage
+lost balls
+Reference 6 - 0.03% Coverage
+unsuccessful passes
+Files\\Studies\\Study272 - § 1 reference coded [ 0.07% Coverage]
+Reference 1 - 0.07% Coverage
+acceleration and rotational velocity following landing

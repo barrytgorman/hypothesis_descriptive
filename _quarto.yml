@@ -1,0 +1,9 @@
+manuscript:
+  article: paper_2.qmd
+  
+format:
+  pdf: default
+  sportrxiv-pdf:
+    keep-tex: true  
+  docx: default
+
