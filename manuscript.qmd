@@ -73,7 +73,7 @@ Intentionally or not, sport and exercise research appears to have largely 'lande
 
 To begin, in some cases it appears that sport and exercise science researchers could be accused of having hypotheses which examine 'low hanging fruit', i.e. hypotheses being framed such that corroboration is the most likely outcome. That is, a hypothesis may be severe and stated precisely but ultimately not risky. We have coined this tendency 'CASHing' (Corroboration-Assured Selection of Hypotheses): researchers cashing by (conveniently) selecting hypotheses with such high *a priori* plausibility, that corroboration is near-assured, and the test is unlikely to fail. Unlike HARKing (Hypothesizing After the Results are Known) [@kerr1998], where the hypothesis is formulated after the results are known, CASHing operates in advance: the hypothesis is genuine and pre-specified, but chosen precisely because it is almost certain to be confirmed. From a probabilistic perspective, this is the most effective way of increasing the chance of corroboration. For example, if we conduct 100 separate studies with the typical alpha (5%) and power (80%) levels and our H~0~ has a 70% probability of being true, then in the long run, `r round((0.8 * 0.30) * 100)`% of the 100 studies will be true positives. Whereas if we do not change the alpha and power but decrease the probability of H~0~ being true to 10% - increasing the probability of H~1~ being true from 30% to 90% - then, in the long run, `r round((0.8 * 0.9) * 100)`% of the 100 studies will be true positives.
 
-With this in mind, and inspired by the weather prediction example of @meehl_appraising_1990 \[p. 110\] and figure 5.3 of @lakens_improving_2022 [p. 116-117], we have created a practical example of CASHing specific to sport and exercise science. We have two sport scientists, let's call them Sport Scientist A and Sport Scientist B, who are supervising one of their athletes (Athlete 1) performing a single counter-movement jump. Athlete 1 is very 'athletic', but this is his first time completing a counter-movement jump on force plates. Before Athlete 1 performs the jump, both sport scientists verbalise a 'hypothesis' to each other:
+With this in mind, and inspired by the weather prediction example of @meehl_appraising_1990 [p. 110] and figure 5.3 of @lakens_improving_2022 [p. 116-117], we have created a practical example of CASHing specific to sport and exercise science. We have two sport scientists, let's call them Sport Scientist A and Sport Scientist B, who are supervising one of their athletes (Athlete 1) performing a single counter-movement jump. Athlete 1 is very 'athletic', but this is his first time completing a counter-movement jump on force plates. Before Athlete 1 performs the jump, both sport scientists verbalise a 'hypothesis' to each other:
 
 ```{=tex}
 \begin{center}
@@ -373,7 +373,7 @@ In summary, if we continue down the road of poorly defined hypotheses, questiona
 
 # A Final Note
 
-While the examples and advice given here can help increase the testability and perhaps severity of our hypotheses, as researchers it may be beneficial to first ask ourselves: "*what we are trying to find out*". One of intellectual virtues purported by @schwartz_science_2020 [p.3] is that as a scientist we need to be a lover of truth: "*Scientists, scholars, and students need to love the truth to be good at what they do. They need to love the truth because discovering it is the point of their eﬀorts, and because knowing the truth matters.*". We therefore must stick our neck out in search of truth and be ready to severely test our hypotheses. As @feynman1974 explained, we need an "*extra type of integrity that is not lying, but bending over backwards to show how you're maybe wrong, that you ought to do when acting as a scientist.*".
+While the examples and advice given here can help increase the testability and perhaps severity of our hypotheses, as researchers it may be beneficial to first ask ourselves: "*what we are trying to find out*". One of intellectual virtues purported by @schwartz_science_2020 [p.3] is that as a scientist we need to be a lover of truth: "*Scientists, scholars, and students need to love the truth to be good at what they do. They need to love the truth because discovering it is the point of their efforts, and because knowing the truth matters.*". We therefore must stick our neck out in search of truth and be ready to severely test our hypotheses. As @feynman1974 explained, we need an "*extra type of integrity that is not lying, but bending over backwards to show how you're maybe wrong, that you ought to do when acting as a scientist.*".
 
 \pagebreak
 
@@ -383,7 +383,7 @@ Gorman, B.T. (Writing -- original draft, Writing -- review & editing, Project ad
 
 # Data and Supplementary Material Accessibility
 
-The data related to this study is publicly available on the OSF (<https://osf.io/mz5w3/overview>). The data, analysis code, and this manuscript as a.qmd file are publicly available on GitHub (<https://github.com/barrytgorman/hypothesis_descriptive.git>).
+The data related to this study is publicly available on the OSF (<https://osf.io/mz5w3/overview>). The data, analysis code, and this manuscript as a .qmd file are publicly available on GitHub (<https://github.com/barrytgorman/hypothesis_descriptive.git>).
 
 # Competing interests
 
