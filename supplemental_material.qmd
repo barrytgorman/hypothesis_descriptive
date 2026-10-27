@@ -141,20 +141,20 @@ The example below is laid out as if it were in a scientific publication, but her
 
 The 3cm threshold was specified *a priori* based on a quantitative prediction derived from the theoretical model motivating the study...
 
-**H1~0~:** The population-level mean within-player difference (𝚫) in the average of three maximal countermovement jump heights measured 24-hours after a soccer match following 30 minutes of passive BFR compared with 30 minutes of passive rest administered immediately following a soccer match will not exceed 3cm.
+**H1~0~:** The population-level mean within-player difference ($\Delta$) in the average of three maximal countermovement jump heights measured 24-hours after a soccer match following 30 minutes of passive BFR compared with 30 minutes of passive rest administered immediately following a soccer match will not exceed 3cm.
 
 Formally that is:
 
-**H1~0~:** 𝚫 ≤ 3
+**H1~0~:** $\Delta$ $\leq$ 3
 
-**H1~a~:** The population-level mean within-player difference (𝚫) in the average of three maximal countermovement jump heights measured 24-hours after a soccer match following 30 minutes of passive BFR compared with 30 minutes of passive rest administered immediately following a soccer match will exceed 3cm.
+**H1~a~:** The population-level mean within-player difference ($\Delta$) in the average of three maximal countermovement jump heights measured 24-hours after a soccer match following 30 minutes of passive BFR compared with 30 minutes of passive rest administered immediately following a soccer match will exceed 3cm.
 
 Formally that is:
 
-**H1~a~:** 𝚫 \> 3
+**H1~a~:** $\Delta$ \> 3
 
 **Discussion:** For our claim, there are two possibilities:
 
-1\) If the one-sided test of **H1~0~:** 𝚫 ≤ 3cm against **H1~a~:** 𝚫 \> 3cm is statistically significant at the prespecified $\alpha$ level, we reject **H1~0~** in favor of **H1~a~**. We could therefore conclude that the population-level mean within-player difference in the average of three maximal countermovement jump heights following passive BFR compared with passive rest exceeds the prespecified practically meaningful threshold of 3cm.
+1\) If the one-sided test of **H1~0~:** $\Delta$ $\leq$ 3cm against **H1~a~:** $\Delta$ \> 3cm is statistically significant at the prespecified $\alpha$ level, we reject **H1~0~** in favor of **H1~a~**. We could therefore conclude that the population-level mean within-player difference in the average of three maximal countermovement jump heights following passive BFR compared with passive rest exceeds the prespecified practically meaningful threshold of 3cm.
 
 2\) If the one-sided test is not statistically significant at the prespecified $\alpha$ level, we fail to reject **H1~0~** and cannot conclude in favour of **H1~a~**. This decision applies even if the sample estimate is positive, statistically distinguishable from zero, or greater than 3cm; the prespecified criterion for concluding that the population-level mean within-player difference exceeds 3cm has not been met. This does not mean an effect is absent. Establishing that the mean difference is sufficiently small to be considered practically equivalent to zero would require an appropriately specified equivalence test with prespecified equivalence bounds.
