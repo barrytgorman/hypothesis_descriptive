@@ -108,3 +108,53 @@ names(split_mixed_claim_freq) <- c("Term ", "Frequency ", "Term", "Frequency")
 ```
 
 `r flextable(split_mixed_claim_freq) %>% fontsize(size = 6, part = "all") %>% padding(padding = 2, part = "all") %>% autofit()`
+
+# An Example
+
+The example below is laid out as if it were in a scientific publication, but here we are just referring to the hypothesis relevant pieces (... refers to additional context or information the authors would provide).
+
+[**Abstract:**]{.underline} ...The primary hypothesis of this study was that the within-player difference in the average of three maximal countermovement jump heights measured 24-hours after a soccer match will be more than 3cm greater following 30 minutes of passive blood-flow restriction (BFR) than following 30 minutes of passive rest administered immediately following a soccer match, in semi-professional soccer players...
+
+[**Introduction:**]{.underline} ...The primary aim of the study was to examine the effect of 30 minutes of passive BFR, compared with 30 minutes of passive rest, on recovery immediately following a soccer match in male semi-professional soccer players. Recovery is operationalised here as the average of three maximal countermovement jump heights (cm), measured using a force plate, 24-hours after the soccer match (See the **Table** below for study operations according to PICO and the estimands framework. Different aspects of PICO and the estimands framework should ideally be clear from the introduction or methods section or both sections). The substantive and statistical hypotheses corresponding to this primary aim can be seen below as 'Hypothesis 1'. Our secondary aim was to examine the effect of passive BFR, compared with passive rest, on Borg 6-20 rating of perceived exertion (RPE) taken 24-hours after the soccer match. We did not specify any hypotheses regarding this secondary aim and consider these observations exploratory.
+
++--------------+----------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| PICO         | Estimand Framework               | Study Operations                                                                                                                                                                                     |
++==============+==================================+======================================================================================================================================================================================================+
+| Population   | Population                       | Semi-professional soccer players: male, aged 18-40 who are registered with a league of ireland premier division team for ≥ 1 year and had just played 90 minutes of a soccer match.                  |
++--------------+----------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Intervention | Treatment                        | BFR: bilateral pneumatic cuffs applied to the proximal thighs at 60% of each participant's individually determined arterial occlusion pressure, for 30 minutes immediately following a soccer match. |
++--------------+----------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Comparator   |                                  | Sitting comfortably at rest for 30 minutes with no distractions.                                                                                                                                     |
++--------------+----------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Outcome      | Variable (or endpoint)           | Variable: maximal countermovement jump heights (cm).                                                                                                                                                 |
+|              |                                  |                                                                                                                                                                                                      |
+|              |                                  | Endpoint: average of three maximal countermovement jump heights (cm), measured using a force plate, 24-hours after the soccer match.                                                                 |
++--------------+----------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|              | Population-Level Summary measure | Mean within-player difference between BFR and rest conditions.                                                                                                                                       |
++--------------+----------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|              | Intercurrent events              | Events and their handling strategy should be explicitly clear from the methods section.                                                                                                              |
++--------------+----------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+**Hypothesis 1:**[^1] The hypothesis of this study was that the within-player difference in the average of three maximal countermovement jump heights measured 24-hours after a soccer match will be more than 3cm greater following 30 minutes of passive BFR than following 30 minutes of passive rest administered immediately following a soccer match, in male semi-professional soccer players.
+
+[^1]: The location of the aims will typically be in the introduction, but there is no set location for the substantive or statistical hypotheses or their operationalisations.
+
+The 3cm threshold was specified *a priori* based on a quantitative prediction derived from the theoretical model motivating the study...
+
+**H1~0~:** The population-level mean within-player difference (𝚫) in the average of three maximal countermovement jump heights measured 24-hours after a soccer match following 30 minutes of passive BFR compared with 30 minutes of passive rest administered immediately following a soccer match will not exceed 3cm.
+
+Formally that is:
+
+**H1~0~:** 𝚫 ≤ 3
+
+**H1~a~:** The population-level mean within-player difference (𝚫) in the average of three maximal countermovement jump heights measured 24-hours after a soccer match following 30 minutes of passive BFR compared with 30 minutes of passive rest administered immediately following a soccer match will exceed 3cm.
+
+Formally that is:
+
+**H1~a~:** 𝚫 \> 3
+
+**Discussion:** For our claim, there are two possibilities:
+
+1\) If the one-sided test of **H1~0~:** 𝚫 ≤ 3cm against **H1~a~:** 𝚫 \> 3cm is statistically significant at the prespecified $\alpha$ level, we reject **H1~0~** in favor of **H1~a~**. We could therefore conclude that the population-level mean within-player difference in the average of three maximal countermovement jump heights following passive BFR compared with passive rest exceeds the prespecified practically meaningful threshold of 3cm.
+
+2\) If the one-sided test is not statistically significant at the prespecified $\alpha$ level, we fail to reject **H1~0~** and cannot conclude in favour of **H1~a~**. This decision applies even if the sample estimate is positive, statistically distinguishable from zero, or greater than 3cm; the prespecified criterion for concluding that the population-level mean within-player difference exceeds 3cm has not been met. This does not mean an effect is absent. Establishing that the mean difference is sufficiently small to be considered practically equivalent to zero would require an appropriately specified equivalence test with prespecified equivalence bounds.
